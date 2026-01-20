@@ -1,10 +1,7 @@
-Ótima ideia, Marcos! 🎯 Se você quer colocar esse projeto de **dashboard** no GitHub, o ideal é preparar uma apresentação clara e visual que explique o case, os dados e os insights. Vou estruturar um modelo de **README/apresentação** que você pode usar diretamente no repositório:
+# 📊 Projeto  – LojaDash
 
----
+1. Contexto
 
-# 📊 Projeto Dashboard – LojaDash
-
-## 1. Contexto
 Este projeto utiliza dados de vendas e logística para analisar:
 - Lucro por categoria
 - Valor de venda por modo de envio
