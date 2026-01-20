@@ -10,11 +10,11 @@ Este repositório reúne **dashboards e análises de dados* desenvolvidos, com f
 - Apoiar áreas de negócio (vendas, marketing, operações) com insights claros e visuais.  
 
 ## 📁 Entregáveis
-- **ETL:* rotinas de ingestão e tratamento de dados.  
-- **Modelagem:* tabelas fato e dimensão, diagrama relacional.  
-- **EDA:* análises exploratórias com SQL/Python.  
-- **Dashboards:* visualizações em Power BI/Tableau.  
-- **Insights:* documentos executivos com recomendações estratégicas.  
+- *ETL:* rotinas de ingestão e tratamento de dados.  
+- *Modelagem:* tabelas fato e dimensão, diagrama relacional.  
+- *EDA:* análises exploratórias com SQL/Python.  
+- *Dashboards:* visualizações em Power BI/Tableau.  
+- *Insights:* documentos executivos com recomendações estratégicas.  
 
 ## 📊 Exemplos de KPIs
 - Receita total e ticket médio.  
