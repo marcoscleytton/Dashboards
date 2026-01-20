@@ -1,18 +1,63 @@
-📊 Transformando dados em decisões com Power BI!
+Ótima ideia, Marcos! 🎯 Se você quer colocar esse projeto de **dashboard** no GitHub, o ideal é preparar uma apresentação clara e visual que explique o case, os dados e os insights. Vou estruturar um modelo de **README/apresentação** que você pode usar diretamente no repositório:
 
-Hoje compartilho um projeto prático que desenvolvi utilizando o Power BI para analisar os dados de uma loja.
-Mesmo com um volume reduzido de informações, consegui extrair insights valiosos sobre:
+---
 
-✅ **Margem de lucro ao longo do tempo**  
-✅ **Valor médio de venda por categoria**  
-✅ **Comparação entre modos de envio**  
-✅ **Custo médio por mercado regional**
+# 📊 Projeto Dashboard – LojaDash
 
-O dashboard mostra como, com as ferramentas certas, é possível gerar visualizações, 
-que apoiam decisões comerciais — mesmo com poucos dados.
+## 1. Contexto
+Este projeto utiliza dados de vendas e logística para analisar:
+- Lucro por categoria
+- Valor de venda por modo de envio
+- Custos de envio por mercado
+- Margem de lucro ao longo do tempo
 
-🔍 Destaques:
-- Margem de lucro média: 92%
-- Categoria com maior valor de venda: Tecnologia
-- Modo de envio mais rentável: Primeira Classe
-- Custo de envio mais alto: LATAM (R$30,18)
+O objetivo é construir um **dashboard interativo** que responda perguntas de negócio e facilite a tomada de decisão.
+
+---
+
+## 2. Estrutura do Projeto
+- **Dados brutos:** arquivos CSV com vendas, categorias, mercados e envios.
+- **ETL:** tratamento e normalização dos dados.
+- **Modelagem:** criação de tabelas fato e dimensão.
+- **Dashboard:** visualizações em Power BI/Tableau.
+
+---
+
+## 3. Principais KPIs
+- 📈 **Lucro médio por categoria**  
+  - Tecnologia, Móveis, Material de Escritório
+- 🚚 **Valor de venda por modo de envio**  
+  - Primeira Classe, Classe Padrão, Segunda Classe, Mesmo Dia
+- 🌍 **Custo médio de envio por mercado**  
+  - LATAM, APAC, EU, US, Canadá, África, EMEA
+- 💰 **Margem de lucro ao longo do tempo**  
+  - Evolução semanal em abril/2014
+
+---
+
+## 4. Visualizações
+- **Gráfico de barras:** Lucro por categoria e modo de envio.  
+- **Mapa/região:** Custos médios por mercado.  
+- **Linha temporal:** Margem de lucro ao longo das semanas.  
+- **KPIs destacados:** valores totais e percentuais.
+
+---
+
+## 5. Insights
+- Tecnologia concentra maior valor de venda e margem.  
+- Custos de envio variam bastante entre regiões (LATAM > APAC).  
+- Margem de lucro manteve estabilidade em abril/2014 (~90%).  
+- Modo de envio “Primeira Classe” apresenta maior custo médio, mas também maior valor de venda.
+
+---
+
+## 6. Como Executar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuusuario/lojadash.git
+   ```
+2. Abra o arquivo `.pbix` (Power BI) ou `.twbx` (Tableau).
+3. Explore os dashboards interativos.
+
+---
+
