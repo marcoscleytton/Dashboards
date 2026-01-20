@@ -13,30 +13,34 @@ O objetivo é construir um **dashboard interativo** que responda perguntas de ne
 ---
 
 ## 2. Estrutura do Projeto
-- **Dados brutos:** arquivos CSV com vendas, categorias, mercados e envios.
-- **ETL:** tratamento e normalização dos dados.
-- **Modelagem:** criação de tabelas fato e dimensão.
-- **Dashboard:** visualizações em Power BI/Tableau.
+- Dados brutos: arquivos CSV com vendas, categorias, mercados e envios.
+- ETL: tratamento e normalização dos dados.
+- Modelagem: criação de tabelas fato e dimensão.
+- Dashboard: visualizações em Power BI/Tableau.
 
 ---
 
 ## 3. Principais KPIs
-- 📈 **Lucro médio por categoria**  
+- 📈 Lucro médio por categoria
   - Tecnologia, Móveis, Material de Escritório
-- 🚚 **Valor de venda por modo de envio**  
+
+- 🚚 Valor de venda por modo de envio
   - Primeira Classe, Classe Padrão, Segunda Classe, Mesmo Dia
-- 🌍 **Custo médio de envio por mercado**  
+-
+
+🌍 Custo médio de envio por mercado  
   - LATAM, APAC, EU, US, Canadá, África, EMEA
-- 💰 **Margem de lucro ao longo do tempo**  
+
+💰 Margem de lucro ao longo do tempo  
   - Evolução semanal em abril/2014
 
 ---
 
 ## 4. Visualizações
-- **Gráfico de barras:** Lucro por categoria e modo de envio.  
-- **Mapa/região:** Custos médios por mercado.  
-- **Linha temporal:** Margem de lucro ao longo das semanas.  
-- **KPIs destacados:** valores totais e percentuais.
+- Gráfico de barras: Lucro por categoria e modo de envio.  
+- Mapa/região: Custos médios por mercado.  
+- linha temporal: Margem de lucro ao longo das semanas.  
+- KPIs destacados: valores totais e percentuais.
 
 ---
 
