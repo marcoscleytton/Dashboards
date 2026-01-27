@@ -1,4 +1,4 @@
-# 📊 INSIGHTS - Análise de Dados de Saúde
+# INSIGHTS - Análise de Dados de Saúde
 
 ##  Visão Geral dos Dados
 
@@ -141,4 +141,5 @@ Insight: Critérios rigorosos funcionando bem.
    Recomendação: Manter mesmos critérios.
 
 -----------------------------------------------------------------------------------
+
 
