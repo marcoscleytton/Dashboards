@@ -1,0 +1,4 @@
+id_status_sk,status,eh_aprovado,eh_negado
+1,Aprovado,1,0
+2,Aprovado com redução,1,0
+3,Negado,0,1

@@ -1,0 +1,9 @@
+id_prestador_sk,id_prestador,nome_prestador,tipo_prestador,cidade,uf,regiao
+1,1,Clínica São Paulo,Clínica,São Paulo,SP,Sudeste
+2,2,Hospital Central,Hospital,São Paulo,SP,Sudeste
+3,3,Laboratório Análises,Laboratório,São Paulo,SP,Sudeste
+4,4,Clínica do Planalto,Clínica,Brasília,DF,Centro-Oeste
+5,5,Hospital Regional,Hospital,Belo Horizonte,MG,Sudeste
+6,6,Imagem Diagnóstica,Laboratório,Rio de Janeiro,RJ,Sudeste
+7,7,Odonto Perfeito,Consultório,São Paulo,SP,Sudeste
+8,8,Fisio & Reabilitação,Clínica,São Paulo,SP,Sudeste

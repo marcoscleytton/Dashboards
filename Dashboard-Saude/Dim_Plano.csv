@@ -1,0 +1,6 @@
+id_plano_sk,id_plano,nome_plano,tipo_plano,coparticipacao_percentual,categoria
+1,1,Plano Básico,Enfermaria,20,Básico
+2,2,Plano Intermediário,Semi Privado,10,Intermediário
+3,3,Plano Premium,Privado,0,Premium
+4,4,Plano Família,Semi Privado,15,Intermediário
+5,5,Plano Executivo,Privado,5,Premium

@@ -1,0 +1,16 @@
+id_procedimento_sk,id_procedimento,descricao,id_grupo_procedimento,nome_grupo,valor_tabela,valor_categoria
+1,1,Consulta Clínica Geral,1,Consultas,150.0,Básico
+2,2,Consulta Cardiologia,1,Consultas,200.0,Médio
+3,3,Consulta Dermatologia,1,Consultas,180.0,Médio
+4,4,Hemograma Completo,2,Exames Laboratoriais,85.5,Básico
+5,5,Lipidograma,2,Exames Laboratoriais,95.0,Básico
+6,6,Glicose em Jejum,2,Exames Laboratoriais,40.0,Básico
+7,7,Ressonância Magnética,3,Exames de Imagem,1200.0,Premium
+8,8,Tomografia Computadorizada,3,Exames de Imagem,800.0,Alto
+9,9,Ultrassom,3,Exames de Imagem,250.0,Médio
+10,10,Apendicectomia,4,Procedimentos Cirúrgicos,3500.0,Premium
+11,11,Colecistectomia,4,Procedimentos Cirúrgicos,2500.0,Premium
+12,12,Internação Clínica,5,Internações,450.0,Médio
+13,13,Internação Cirúrgica,5,Internações,600.0,Alto
+14,14,Limpeza Dental,6,Odontologia,120.0,Básico
+15,15,Sessão Fisioterapia,7,Fisioterapia,85.0,Básico
