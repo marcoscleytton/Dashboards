@@ -13,7 +13,7 @@ Você possui dados de **sinistros de saúde** (5 tabelas relacionadas) com infor
 
 ##  PRINCIPAIS INSIGHTS RECOMENDADOS
 
-###  **Análise de Custos e Autorizações**
+###  *Análise de Custos e Autorizações*
 
 ####  Tendências de Gastos
 ```
@@ -189,6 +189,7 @@ Insight: poucos usuários concentram grande parte dos custos, importante para an
 - Exames de imagem: R$ 7 mil  
 - Internações: R$ 5 mil  
  Insight: procedimentos cirúrgicos são os principais responsáveis pelo ticket médio elevado.
+
 
 
 
