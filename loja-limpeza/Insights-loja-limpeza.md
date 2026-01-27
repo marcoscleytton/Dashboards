@@ -1,12 +1,12 @@
-# 🧹 Estudo de Caso: Empresa de Limpeza com Power BI
+#  Estudo de Caso: Empresa de Limpeza com Power BI
 
-## 🎯 Objetivo da Atividade
+## Objetivo da Atividade
 Este estudo de caso tem como objetivo aplicar o uso do **Power BI**, ferramenta de análise de dados da Microsoft, para explorar informações de uma empresa de serviços de limpeza.  
 A proposta é transformar dados simples em **visualizações interativas** que permitam obter **insights estratégicos** sobre o comportamento dos clientes e a performance dos serviços.
 
 ---
 
-## 📋 Dados Utilizados
+##  Dados Utilizados
 Os dados inseridos no Power BI foram:
 
 | Cliente | Tipo de Serviço | Valor (R$) |
@@ -18,7 +18,7 @@ Os dados inseridos no Power BI foram:
 
 ---
 
-## 📈 Etapas da Análise
+##  Etapas da Análise
 1. Importação dos dados no Power BI.  
 2. Criação de gráficos para visualizar:  
    - Gasto por cliente  
@@ -31,14 +31,14 @@ Os dados inseridos no Power BI foram:
 
 ---
 
-## 🔍 Insights Esperados
+##  Insights Esperados
 - Entender o perfil dos clientes com maior valor investido.  
 - Avaliar a viabilidade de novos serviços com base nos gastos atuais.  
 - Apoiar decisões sobre fidelização, promoções e expansão.  
 
 ---
 
-## 🛠️ Sobre o Power BI
+## Sobre o Power BI
 O Power BI permite:
 - Limpar e transformar dados  
 - Criar dashboards interativos  
@@ -47,4 +47,4 @@ O Power BI permite:
 
 ---
 
-📌 *Este estudo de caso demonstra como dados simples podem ser transformados em informações estratégicas para apoiar decisões de negócio.*
+ *Este estudo de caso demonstra como dados simples podem ser transformados em informações estratégicas para apoiar decisões de negócio.*
