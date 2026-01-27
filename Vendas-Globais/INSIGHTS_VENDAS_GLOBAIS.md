@@ -1,4 +1,4 @@
-# 📊 Dashboard Analítico de Vendas Globais
+#  Dashboard Analítico de Vendas Globais
 
 ##  Descrição
 Este projeto apresenta um **dashboard interativo desenvolvido em Power BI** para análise de vendas globais entre **2011 e 2014**.  
@@ -27,5 +27,6 @@ O objetivo é fornecer uma visão clara e estratégica sobre o desempenho por **
 - Expandir atuação em países com **vendas críticas e médias** para equilibrar o portfólio.  
 
 ---
+
 
 *Este projeto demonstra como o uso de dashboards interativos pode transformar dados em decisões estratégicas, apoiando o crescimento sustentável e a eficiência logística.*
