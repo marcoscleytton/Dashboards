@@ -11,11 +11,11 @@ Você possui dados de **sinistros de saúde** (5 tabelas relacionadas) com infor
 
 ---
 
-## 💡 PRINCIPAIS INSIGHTS RECOMENDADOS
+##  PRINCIPAIS INSIGHTS RECOMENDADOS
 
-### 1️⃣ **Análise de Custos e Autorizações**
+###  **Análise de Custos e Autorizações**
 
-#### Dashboard: Tendências de Gastos
+####  Tendências de Gastos
 ```
 Métrica: Taxa de Aprovação vs Redução
    • Sinistros aprovados: 100%
@@ -45,7 +45,7 @@ Insight: Imagens diagnósticas são o maior custo.
 
 ### **Performance dos Prestadores**
 
-#### Dashboard: Ranking de Prestadores
+#### Ranking de Prestadores
 ```
  Top 3 Prestadores (por volume de sinistros):
    1. Hospital Central (SP): 4 sinistros | R$ 4.250,00
@@ -93,7 +93,7 @@ Plano Premium (0% coparticipação):
 
 ### **Padrões de Utilização e Saúde**
 
-#### Dashboard: Procedimentos Mais Solicitados
+#### Procedimentos Mais Solicitados
 ```
  Top Procedimentos:
    1. Ressonância Magnética: 2 solicitações | R$ 2.400,00
@@ -127,7 +127,7 @@ Insight: Beneficiários utilizando mais diagnósticos por imagem.
 
 ### **Análise de Taxa de Rejeição e Conformidade**
 
-#### Dashboard: Qualidade de Reivindicações
+#### Qualidade de Reivindicações
 
 ✅ Taxa de Aprovação: 100%
 ⚠️ Taxa de Redução: 27% (3 de 11 sinistros com redução)
@@ -141,5 +141,6 @@ Insight: Critérios rigorosos funcionando bem.
    Recomendação: Manter mesmos critérios.
 
 -----------------------------------------------------------------------------------
+
 
 
