@@ -1,4 +1,4 @@
-# 📊 Projeto  – LojaDash
+#  Projeto  – LojaDash
 
 1. Contexto:
 
