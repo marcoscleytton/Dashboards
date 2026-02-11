@@ -6,17 +6,66 @@ O objetivo é acompanhar métricas de **aquisição**, **engajamento**, **reten�
 ---
 
 ## 🚀 1. Monitoramento de Instalações via Anúncios
-*(mantido conforme versão anterior)*
+
+### Métricas Principais
+- **Total de Instalações**: 1.000
+- **Tempo Médio até Cadastro**: 9,1 min
+- **Taxa de Conversão Total**: 47,0%
+- **Drop-Off Geral**: 53%
+
+### Eventos de Tela e Ações
+- Visualização da tela de instalação: 100%
+- Clique em "Criar Conta": 83,5%
+- Cadastro concluído: 75,4%
+- PIN confirmado: 47,0%
 
 ---
 
 ## 📱 2. Monitoramento de Uso do Aplicativo
-*(mantido conforme versão anterior)*
 
+### Usuários Ativos
+- **Total Usuários Ativos**: 919
+- **Ativos (%)**: 91,9%
+- **Inativos (%)**: 8,1%
+
+### Distribuição por Gênero
+| Gênero    | Usuários | % |
+|-----------|----------|---|
+| Feminino  | 184      | 39,15% |
+| Masculino | 154      | 32,77% |
+| Outro     | 132      | 28,09% |
+
+### Engajamento por Plataforma
+- Android: 49,66%  
+- iOS: 50,34%
+
+### Interesses (Segmento "Outro")
+- Tecnologia: 35,88%
+- Notícias: 22,60%
+- Viagens: 17,51%
+- Música, Filmes, Esportes, Leitura: valores complementares
+
+### ROI por Fonte de Mídia
+| Fonte         | ROI (R$) |
+|---------------|----------|
+| Google Ads    | 281,29   |
+| Facebook Ads  | 250,69   |
+| Orgânico      | 0,00     |
 ---
 
 ## 📅 3. Tabela Semanal de Monitoramento (Churn)
-*(mantido conforme versão anterior, com destaque para finais de semana)*
+
+### Abandono por Marca em Dias da Semana
+| Data                | Apple | LG | Motorola | Samsung | Xiaomi | Total |
+|---------------------|-------|----|----------|---------|--------|-------|
+| **Sábado, 4 Jan 25** | 12%   | 10% | 15%      | 14%     | 11%    | 12,4% |
+| **Domingo, 5 Jan 25** | 14%   | 12% | 16%      | 15%     | 13%    | 14,0% |
+| Quarta, 8 Jan 25    | 9%    | 8%  | 11%      | 10%     | 9%     | 9,4%  |
+| **Sábado, 11 Jan 25**| 13%   | 11% | 14%      | 13%     | 12%    | 12,6% |
+| **Domingo, 12 Jan 25**| 15%   | 13% | 17%      | 16%     | 14%    | 15,0% |
+| Segunda, 20 Jan 25  | 10%   | 9%  | 12%      | 11%     | 10%    | 10,4% |
+
+📌 **Insight:** Os finais de semana apresentam **maiores taxas de abandono** (entre 12% e 15%), indicando que os usuários tendem a desinstalar ou parar de usar o app nesses dias. Isso sugere a necessidade de campanhas de **retenção e engajamento específicas para sábados e domingos**.
 
 ---
 
