@@ -1,11 +1,11 @@
-# 📊 Monitoramento de Usuários - Aplicativo
+#  Monitoramento de Usuários - Aplicativo
 
 Este repositório contém dashboards e análises sobre o comportamento dos usuários em relação à instalação e utilização do aplicativo.  
 O objetivo é acompanhar métricas de **aquisição**, **engajamento**, **retenção** e **abandono**, permitindo otimizações em campanhas de marketing e melhorias na experiência do usuário.
 
 ---
 
-## 🚀 1. Monitoramento de Instalações via Anúncios
+## 1. Monitoramento de Instalações via Anúncios
 
 ### Métricas Principais
 - **Total de Instalações**: 1.000
@@ -21,7 +21,7 @@ O objetivo é acompanhar métricas de **aquisição**, **engajamento**, **reten�
 
 ---
 
-## 📱 2. Monitoramento de Uso do Aplicativo
+##  2. Monitoramento de Uso do Aplicativo
 
 ### Usuários Ativos
 - **Total Usuários Ativos**: 919
@@ -53,7 +53,7 @@ O objetivo é acompanhar métricas de **aquisição**, **engajamento**, **reten�
 | Orgânico      | 0,00     |
 ---
 
-## 📅 3. Tabela Semanal de Monitoramento (Churn)
+##  3. Tabela Semanal de Monitoramento (Churn)
 
 ### Abandono por Marca em Dias da Semana
 | Data                | Apple | LG | Motorola | Samsung | Xiaomi | Total |
@@ -65,11 +65,11 @@ O objetivo é acompanhar métricas de **aquisição**, **engajamento**, **reten�
 | **Domingo, 12 Jan 25**| 15%   | 13% | 17%      | 16%     | 14%    | 15,0% |
 | Segunda, 20 Jan 25  | 10%   | 9%  | 12%      | 11%     | 10%    | 10,4% |
 
-📌 **Insight:** Os finais de semana apresentam **maiores taxas de abandono** (entre 12% e 15%), indicando que os usuários tendem a desinstalar ou parar de usar o app nesses dias. Isso sugere a necessidade de campanhas de **retenção e engajamento específicas para sábados e domingos**.
+ **Insight:** Os finais de semana apresentam **maiores taxas de abandono** (entre 12% e 15%), indicando que os usuários tendem a desinstalar ou parar de usar o app nesses dias. Isso sugere a necessidade de campanhas de **retenção e engajamento específicas para sábados e domingos**.
 
 ---
 
-## 👥 4. Dropout por Idade e Gênero
+##  4. Dropout por Idade e Gênero
 
 ### Abandono por Faixa Etária
 | Idade | Feminino | Masculino | Outro | Total |
@@ -104,14 +104,14 @@ O objetivo é acompanhar métricas de **aquisição**, **engajamento**, **reten�
 - Outro: 48%  
 - **Total Geral**: 53%
 
-📌 **Insight:**  
+ **Insight:**  
 - Faixas etárias entre **22 e 23 anos** e **46 a 47 anos** apresentam **maior abandono** (acima de 70%).  
 - Usuários mais jovens (18–20 anos) têm abandono (~53–59%).  
 - O grupo **Masculino** mostra abandono consistentemente mais alto (59%) em comparação com Feminino (52%) e Outro (48%).  
 
 ---
 
-## 📈 5. Indicadores Financeiros
+##  5. Indicadores Financeiros
 - **Investimento Total**: R$ 180.000
 - **CAC (Custo por Usuário)**: R$ 180
 - **LTV Médio**: R$ 180,26
@@ -119,7 +119,7 @@ O objetivo é acompanhar métricas de **aquisição**, **engajamento**, **reten�
 
 ---
 
-## 🎯 Conclusão
+##  Conclusão
 Os dashboards permitem:
 - Identificar pontos de abandono no funil de instalação.  
 - Comparar desempenho entre canais e dispositivos.  
