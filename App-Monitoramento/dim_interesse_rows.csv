@@ -1,0 +1,1001 @@
+usuario_id,interesse
+0001e65d-6221-489c-bbce-7180eb0ba458,"['Esportes', 'Música']"
+00696cf2-ee56-4975-8b21-f9aeb1e28f38,"['Ebook', 'Música', 'Música']"
+00acae25-1a99-41ed-8def-326cc6c76306,"['Ebook', 'Filmes']"
+00e6d374-5351-446e-bccc-bfd73fac9eb7,['Viagens']
+00fc1b38-a695-434a-944c-68e7776ed3ae,"['Tecnologia', 'Música']"
+01394037-c58c-4afb-a570-6e83f5ddfb7f,['Viagens']
+014811dd-26cd-4cc3-b415-6bff047c53d8,"['Filmes', 'Tecnologia', 'Música']"
+01d21807-1c46-449d-9b71-23869de64faa,"['Esportes', 'Ebook', 'Filmes']"
+02b78f2f-b580-48af-ae92-b663f1f72fca,['Filmes']
+02e8d6ac-85db-47ce-9b65-db7d1a14d1d7,"['Tecnologia', 'Esportes', 'Notícias']"
+03f41dc8-cd6f-4a53-80ee-5aee88398ba0,['Viagens']
+0414f776-0d55-44b0-a028-fadcecdb42a6,"['Música', 'Leitura', 'Esportes']"
+04225de8-494c-4581-9ca1-e2237c60f7e3,"['Ebook', 'Leitura', 'Ebook']"
+04738dee-defc-4bb6-b950-d23b3bdb8514,"['Música', 'Ebook', 'Tecnologia']"
+04d72822-52c6-4bf2-8598-7c69a9efa826,"['Ebook', 'Ebook', 'Esportes']"
+04ea544b-985d-4746-9ead-336a069cc874,['Leitura']
+0536ab96-3755-4b77-9f7e-652b98c27427,"['Filmes', 'Esportes', 'Ebook']"
+05fcc3e4-cad8-415a-8f82-1c98646c427e,"['Tecnologia', 'Notícias', 'Notícias']"
+06a1cbb5-b993-47e3-89d3-e84b19e3c0c8,['Filmes']
+06e408b5-de12-4db3-bfd8-a525a14bebf6,"['Esportes', 'Leitura']"
+07a87909-6be5-47ec-9b53-eaecee8541ce,['Viagens']
+08005ff2-f72b-4d3d-a6c9-2ac60bf4292a,"['Viagens', 'Notícias', 'Ebook']"
+08141c42-a3bf-4ff0-887e-bfe7515aaffb,"['Viagens', 'Tecnologia', 'Viagens']"
+0858848a-dab6-46ed-9339-73d9b6f22627,"['Leitura', 'Música']"
+0886a57d-2316-49c1-b222-3c037a57829e,"['Música', 'Filmes', 'Filmes']"
+089fceaf-3c59-4b8c-a84b-968ba0a44000,"['Ebook', 'Filmes']"
+08f613a6-0b8f-46b4-b3ca-6e693781c492,['Viagens']
+090203a5-1ab5-45d7-98b3-226871c7e394,['Música']
+091775d7-c3ef-40f6-897d-271ca1282040,"['Ebook', 'Notícias', 'Notícias']"
+093ad6ec-aec4-473f-bae2-0fe08c594472,['Música']
+095149c9-5f5f-45b1-a639-3c1d153e7976,"['Notícias', 'Ebook']"
+099b21d4-91af-4b90-adb7-ae6bdc4f43c8,"['Filmes', 'Notícias', 'Viagens']"
+0a2bb9fe-230c-472f-a4ad-1151bd4ba345,['Notícias']
+0a375da9-4359-43be-9046-993504cdd3f9,"['Esportes', 'Ebook', 'Viagens']"
+0a7150b8-9b47-4d9c-a3ee-7acade671616,['Filmes']
+0a761424-25fa-49f0-9d36-43db9b9f80b6,['Ebook']
+0ad4052d-aa71-4627-b1be-634a86eefa51,"['Notícias', 'Filmes']"
+0adfe8c6-00a1-420c-a191-e6719d2d57e7,['Leitura']
+0b079f8a-c816-429c-939e-06e53fac8dbd,['Viagens']
+0b9d10a3-a88b-4e76-88e3-4f5aef6d6984,"['Música', 'Viagens']"
+0be1e4f1-d555-495c-ab1c-039f9bc8e296,"['Filmes', 'Leitura', 'Ebook']"
+0bfc76f2-f3f5-4092-8869-6326d3369020,['Leitura']
+0c331f01-7ee2-4165-af66-9e1945305987,"['Ebook', 'Música']"
+0c4f9140-314c-44be-8c48-9205a043776c,"['Música', 'Filmes']"
+0c5396fc-21b6-4df0-985e-300ae74b3266,"['Música', 'Música', 'Leitura']"
+0c7fec68-24b4-4777-9620-d378f115698f,['Tecnologia']
+0d190abb-5aea-4e16-bac7-7312e510721b,"['Esportes', 'Música', 'Ebook']"
+0d48861f-6ca9-4ef4-88a1-fc135687d2ce,['Esportes']
+0d5c5c51-fe18-493c-9efb-7d74c7320301,"['Música', 'Tecnologia']"
+0d800fb9-b42d-4e2a-8c5f-8afc4c022485,['Música']
+0da8bac4-c453-4368-855a-d734fafc70a6,"['Leitura', 'Música']"
+0e085fa7-a9dd-4346-8f7c-5e576d2e63db,['Música']
+0e252e0d-3637-4c1d-b354-e8dc695e4bdd,['Leitura']
+0e887e9b-4da3-4382-8784-b7fe891d6a5b,"['Leitura', 'Música', 'Tecnologia']"
+0ea3db1e-7f39-4f5d-b19f-399860a5e52a,"['Ebook', 'Notícias']"
+0ea9d453-5d0a-409c-ae9d-a5804bcabb76,['Esportes']
+0eb5cc9d-dfb0-4fcb-838c-714af77ef87b,['Música']
+0f46e400-5a6f-4717-9266-370e1316f72d,['Esportes']
+0f4bc3ad-8c01-4a2f-b524-cd0b447c9ee9,['Filmes']
+0f5a57b7-1961-4eb7-af6d-8180d4b7dded,"['Música', 'Música']"
+0f83fb3c-01d9-48b5-8ba0-12adc865bc26,['Viagens']
+0f8527e2-fc9a-4fb4-bc25-80202476abf9,['Notícias']
+0ffec911-6edd-4dcf-95a8-8e26f296839c,"['Leitura', 'Viagens']"
+109bf7e4-508a-42d3-80a9-2517ae1ffd8c,"['Esportes', 'Viagens']"
+1111dab0-a866-477a-aa25-4d880b2cd041,"['Notícias', 'Tecnologia']"
+1195112e-aa25-42e6-aaaa-c41b1deb6ffe,['Notícias']
+11d4f40f-6272-4ddf-bd8e-8ed32ad3d0af,['Tecnologia']
+11e9fbf8-ff53-4729-bd35-75dff7c7f749,"['Música', 'Leitura']"
+125261fd-ae0f-4a17-8ee4-01e73f588110,['Ebook']
+1269871d-0fe5-455f-b86a-01ce399466a1,"['Notícias', 'Esportes', 'Leitura']"
+13075256-12a3-4f36-a096-be18bd8a1509,"['Notícias', 'Esportes']"
+131177a9-7a27-488b-9b62-3e5c1369d419,"['Viagens', 'Filmes']"
+1324b1fd-4f57-48fe-8924-b99cc5a19bd6,"['Viagens', 'Música']"
+13f84baf-0559-462e-ae07-4ec20729a674,"['Filmes', 'Tecnologia']"
+14848dc8-6e92-4fe3-9b61-f6e9d86b7c0f,"['Tecnologia', 'Notícias']"
+14fbf24a-3bd8-4c0c-97c4-e95664a6dbfb,"['Leitura', 'Leitura']"
+15082cf2-4889-4ea1-8fa8-2353a59edc10,"['Esportes', 'Música']"
+15656a15-9090-4e9b-922d-68a7a295d06f,['Filmes']
+156e0c95-7dd2-4a7f-ac45-346e216d3ffd,['Ebook']
+157c70ab-f24d-42e1-9f33-3418706cbb35,"['Filmes', 'Notícias']"
+158c513f-ae6b-4ade-85df-e48f91f6274c,"['Notícias', 'Esportes', 'Leitura']"
+15967fba-c5ba-4348-8c9b-9978f3191ecb,"['Tecnologia', 'Filmes']"
+15bce94c-7245-4cd2-bf96-c0a33820217f,"['Filmes', 'Ebook']"
+15befc47-95e5-470b-976c-8da58f67a8b2,['Filmes']
+15d9af71-65b1-4bb0-8cc8-0f95c3ad7fb7,['Ebook']
+160259d1-dd4f-4208-9d10-3e99b22158d0,['Esportes']
+16d241c1-0dc0-4eaa-9e0f-12f4bf11b8b8,"['Esportes', 'Filmes', 'Música']"
+16d367b5-49e5-4c99-959c-b763afdffe4c,"['Tecnologia', 'Leitura', 'Viagens']"
+16e2828b-af81-4f84-88db-077378824cae,"['Ebook', 'Viagens', 'Filmes']"
+16fba500-4bea-4382-b05e-ae3b8da237f1,['Leitura']
+172ef025-701f-4bd1-afb5-fcc9fe7ad2f3,"['Filmes', 'Leitura', 'Ebook']"
+1812a2a4-3eba-44ab-98dc-8fc607b28fee,"['Viagens', 'Ebook', 'Viagens']"
+1812a9ec-7298-4fad-80f8-189330c1e442,"['Viagens', 'Ebook']"
+18583997-d0c3-4ed5-ba00-0fc57f98d77c,"['Notícias', 'Filmes']"
+190d9586-5b13-4fe2-9c74-a07d76a43eb2,"['Tecnologia', 'Esportes']"
+19458e79-8bcb-4e20-af2f-cbc498a727a6,"['Viagens', 'Esportes']"
+19e9c089-ee67-48c6-98af-083664492e34,"['Viagens', 'Notícias']"
+19f91131-18ff-44bf-9ec2-4fe632d80498,['Ebook']
+1a154933-a9a3-4105-9cba-a0d83f576939,"['Leitura', 'Viagens', 'Leitura']"
+1a288f01-863e-437e-a76e-f8ad75230e11,['Viagens']
+1a525a90-e1bb-4b01-9665-6cb02c3f267c,"['Leitura', 'Filmes']"
+1a80530f-a671-441e-a9ce-200c105cf99d,"['Notícias', 'Filmes']"
+1ac25f0d-a06c-4834-9c07-e2cad0e0428e,"['Leitura', 'Ebook', 'Música']"
+1ca565da-4b4a-43c5-89d9-efc0eb29956c,['Viagens']
+1ca66e13-0e5c-44c4-a358-fb62e85a23b8,"['Leitura', 'Viagens']"
+1cb274a7-392e-4bdd-bb0a-449356edda03,"['Música', 'Esportes']"
+1cbd5985-587c-4b8b-b5ac-d16aee2f9876,"['Música', 'Música', 'Música']"
+1d1f7bd2-9808-47e0-abc8-3793296327a3,"['Notícias', 'Viagens', 'Viagens']"
+1d73e149-a528-4056-92c4-971bab1a671c,['Leitura']
+1de5973d-30d8-43ad-9d6d-9e07f9719dca,"['Notícias', 'Notícias', 'Esportes']"
+1e0dcd9b-c1be-4a25-ad9b-3358c06a3bdb,"['Leitura', 'Viagens']"
+1e5a574f-8044-44bf-8a2f-47cc371281f1,"['Música', 'Tecnologia', 'Leitura']"
+1efde57a-cd74-466e-a608-0222f8a2351d,"['Filmes', 'Filmes']"
+1eff5346-a450-407f-83a7-94ab363ce0c8,"['Esportes', 'Notícias']"
+1f463379-b919-431b-aa3f-906f30d22def,"['Filmes', 'Leitura']"
+1f63d762-eb34-41a7-9a28-d4ee4a895c8b,"['Leitura', 'Música', 'Notícias']"
+1f642c93-d3b7-4495-80a3-735cd0e02966,"['Filmes', 'Tecnologia']"
+1faf8869-fcf0-4f39-a22b-8db5fb3e1b59,"['Notícias', 'Esportes', 'Esportes']"
+1fdbdcd0-d0c4-42b9-9dca-e5d12ce2b5e2,['Música']
+1ff84875-6efc-49fb-a063-e1f6cfe2fa42,"['Esportes', 'Leitura']"
+1ffd8739-e14d-4f51-837e-6303aa3287a5,"['Filmes', 'Música']"
+20b15ceb-d6f0-4f86-9489-098a8ab0c8d5,"['Notícias', 'Viagens']"
+20bd3136-28e0-4ad6-9dd7-88103c9eeff8,['Música']
+20e1bc4d-b32c-49ea-8b41-eb093a901af0,"['Leitura', 'Música']"
+20e572cd-e02a-4b92-b706-1aa34404a2b9,"['Esportes', 'Filmes', 'Tecnologia']"
+21a67327-b8dc-4b9c-9ea2-c6c0e8009000,"['Música', 'Viagens', 'Leitura']"
+21a95731-065f-4077-9f6d-935c9d7767dd,"['Notícias', 'Ebook', 'Viagens']"
+21b8da9f-2d8b-4893-8f3f-fd0ec1e2d704,"['Esportes', 'Música']"
+22541800-6135-4b05-88b3-01c78a2bad81,['Tecnologia']
+22bc9898-3d0a-4540-a9c0-840a2aab12ec,"['Viagens', 'Tecnologia']"
+22d89b0e-43e8-46b5-b9f7-01e34fb6a03b,"['Música', 'Notícias', 'Viagens']"
+23677294-2443-47c4-9215-d1610f7582fa,"['Tecnologia', 'Ebook']"
+23a971c8-01b5-45a3-8e3f-3522479fed26,"['Ebook', 'Viagens', 'Esportes']"
+24a0adf0-bb2e-4e00-b9b2-9c122cd268fa,"['Esportes', 'Filmes', 'Leitura']"
+24d7b12c-8df9-4c09-9771-7517d8992e84,"['Ebook', 'Ebook']"
+24db78d8-59e9-4bae-8b4e-eeaee92184dc,"['Esportes', 'Tecnologia']"
+24f33e76-63f4-465c-9a2e-ed18ceba4a7c,['Ebook']
+24f65ba1-bc39-442b-83fd-adcbfe3eba3d,"['Viagens', 'Leitura', 'Viagens']"
+25993933-95d4-4d38-b4bb-1da4376967bb,['Ebook']
+25f92d6d-70f7-4e9c-b8fb-72e070850c59,"['Ebook', 'Ebook', 'Tecnologia']"
+2649b7ce-521f-47a7-8021-bd832defc2cb,['Ebook']
+264a0e39-1d91-4c12-9274-22a6754aa631,['Viagens']
+267f8895-6597-41aa-a891-55bfa64afff8,"['Ebook', 'Viagens', 'Filmes']"
+2688d0ba-7abc-41d4-92b6-f9d21ac7361f,"['Esportes', 'Esportes', 'Tecnologia']"
+26959e9b-abae-4cee-9b05-39708356ec9c,['Notícias']
+26e2badc-c8bf-414c-bb58-7f1fadedc6d3,"['Notícias', 'Tecnologia']"
+270a67f1-0452-426b-8ca9-3c2164bc8fa4,"['Música', 'Notícias']"
+276aee95-97fe-446f-b9e0-d86ef08dcad8,"['Tecnologia', 'Leitura']"
+27ce3e4c-5592-43f2-ad4c-f141f48fbde7,"['Filmes', 'Filmes', 'Filmes']"
+28acd53b-a90a-4c14-9034-60ff8a1291bb,"['Leitura', 'Música', 'Tecnologia']"
+29c060fc-0e38-433a-bd47-21079b212435,"['Música', 'Leitura']"
+29eaa917-0ba3-435f-870e-e3fc4b778b96,['Filmes']
+29ed3ab0-fa47-4fdb-9dc1-1394df463475,"['Esportes', 'Leitura', 'Esportes']"
+2a1be7db-e3ad-4008-98e5-96fd737e28a7,"['Música', 'Esportes']"
+2a2fbf68-f611-4322-9c82-31db6388d5dc,"['Esportes', 'Viagens', 'Viagens']"
+2a69451b-3b95-4214-b3f3-181cdf6e4406,['Filmes']
+2a6dcb48-f9b8-4cde-b7ce-f9780c23487d,['Notícias']
+2afe66f1-76a6-4e96-802b-e0f6d437f3ba,"['Esportes', 'Notícias', 'Tecnologia']"
+2b2c070b-a2a2-4c68-9fc6-262c33dce632,"['Filmes', 'Notícias', 'Esportes']"
+2b6449ef-8478-4765-8801-6eb42eadeac9,['Música']
+2b6c4cee-5fe9-4fed-9041-13e914f157be,"['Viagens', 'Viagens']"
+2b7279f0-18e7-4459-905f-9de44c83b857,"['Ebook', 'Ebook']"
+2ba4e972-89a8-4d51-8fc9-e14fd746e84b,['Tecnologia']
+2bb6e3e3-8df7-4d54-bf5a-4974b08f4e0c,"['Viagens', 'Música']"
+2bf030db-8a71-4009-ae2d-8774c86d3275,['Viagens']
+2bf79605-8bd4-4e98-87ce-29b6550ac0b4,"['Filmes', 'Esportes']"
+2c134962-296a-4f02-8e8c-29796f1948bc,"['Música', 'Tecnologia']"
+2c16b2ba-8325-4ebd-9e5f-f9e8e49f9fa8,"['Viagens', 'Notícias']"
+2c5048aa-f43b-48d9-a4ad-45b8bbce1e14,['Viagens']
+2c719885-3b62-48a4-b5ca-a7feb8cae69c,['Notícias']
+2c8cc14c-47e9-4af9-804d-c0f96339e43d,['Viagens']
+2cc67e7f-4773-47ac-b0b0-4a996a418d4b,"['Viagens', 'Ebook']"
+2df25d08-29b5-4bca-a367-8d9f80048c36,"['Leitura', 'Viagens']"
+2e3a2302-7c05-45a0-a802-a95498d7cdf5,['Viagens']
+2e639115-6360-45e4-b276-c7969165b8d7,"['Ebook', 'Leitura', 'Leitura']"
+2ec947b8-4445-424f-84f7-29cdf46132e0,"['Notícias', 'Filmes']"
+2edbbd17-5d2d-4f90-a1b6-6135614978ee,['Filmes']
+2f028a04-fe2c-4fd3-a79c-ea2d4e3e8291,"['Viagens', 'Tecnologia']"
+2f055724-452e-4fae-ba5a-a556c45936ad,"['Viagens', 'Viagens']"
+2f1f749e-206e-4edd-b962-f1980cbe2a32,['Esportes']
+2f44d462-04f7-4ef0-92f3-dcd92d782ca9,"['Leitura', 'Notícias']"
+2f9ffd6c-a338-450e-83ac-6457e7090ea4,"['Ebook', 'Esportes']"
+2fa5924a-ac7e-45dc-9038-5f0b04c3d52a,"['Esportes', 'Esportes']"
+2fa9859f-2f7a-41a7-92af-bd0c18477015,"['Leitura', 'Esportes', 'Leitura']"
+2fdc7166-8b83-487b-b24f-4d55e7829e04,"['Esportes', 'Tecnologia']"
+2fe5c670-0e4d-4023-8942-49e0cacc4d55,"['Tecnologia', 'Tecnologia', 'Viagens']"
+2fe8501c-a462-4c8b-87fb-e06148066bea,"['Leitura', 'Música', 'Leitura']"
+2fee2f6e-201b-4f86-b5a3-01434803337f,"['Filmes', 'Ebook', 'Esportes']"
+3021d318-3b4b-42f1-beed-e5c39de38722,"['Ebook', 'Tecnologia', 'Viagens']"
+306ee589-61b7-4ae0-9e5a-048c86524b22,"['Viagens', 'Leitura']"
+307c0d80-ec4f-466f-9a2f-01f1c7dcc07b,"['Notícias', 'Viagens']"
+3093de60-9db2-43d7-9c5c-1273c452eaca,"['Música', 'Música', 'Leitura']"
+30f55fae-9919-4380-a207-221ac83551ec,"['Tecnologia', 'Música']"
+3136111e-1606-4d4b-8213-565b247e05ef,['Notícias']
+3194a9c7-7074-49bb-8d53-55ac2a451084,['Tecnologia']
+31ac1cc0-dbf8-4398-a0cc-5fb25b78ed7d,['Notícias']
+31dbaac8-9176-4905-a0c6-86c379c304da,"['Música', 'Notícias']"
+3232d1d4-6672-4005-ba0b-3a64b828c801,['Leitura']
+33095194-f6fb-453c-92e3-86bdf67355be,"['Notícias', 'Música']"
+3343f865-3ed0-4f95-a8c4-452e30517b70,['Notícias']
+3366ce26-4de5-408a-8749-e3b935f44d9f,"['Esportes', 'Filmes']"
+33af80a4-030a-494d-bc9c-155e2d49ba59,['Notícias']
+33c453e2-251e-4d80-87c1-73060cbb87a1,"['Tecnologia', 'Viagens']"
+33c8465b-1ba8-4847-8420-f61df8b0edf0,"['Música', 'Ebook']"
+34287fc9-72d4-4b26-8539-31fda2f5221f,"['Ebook', 'Viagens']"
+344eea3b-ace5-4e34-b877-846a7cebbf21,['Música']
+345662ad-8035-47be-bc89-f9b9b307eae9,['Notícias']
+34610315-329e-47d6-a93d-291a294e6d44,"['Notícias', 'Notícias', 'Esportes']"
+34f4a900-9347-4842-bd14-2b445783344d,"['Ebook', 'Esportes', 'Filmes']"
+35377428-8c0e-4944-872f-2b30efcaca91,"['Ebook', 'Tecnologia']"
+35687c77-bbba-4434-b9be-8e8db4c3d3b7,"['Leitura', 'Leitura', 'Música']"
+357981b8-0a08-4b81-b402-de62fd61fd57,"['Esportes', 'Esportes']"
+35ae02ad-31c1-4373-9880-1ee60af2e9fc,"['Filmes', 'Filmes']"
+3604e364-a6dd-4571-b118-0aa392d34ff4,"['Filmes', 'Ebook', 'Ebook']"
+36303171-9802-4172-9e73-0f40917d716f,"['Tecnologia', 'Leitura']"
+363cfc02-e11f-4006-8aac-6f7bae166ede,['Viagens']
+364182d5-26ba-42a9-9e89-532839f51f6b,"['Viagens', 'Filmes', 'Filmes']"
+3682ff36-dd9a-455e-811d-af333caa001c,"['Viagens', 'Esportes']"
+36b18bae-4bc6-4889-979b-01e61f44c863,['Filmes']
+37cecc45-a8ce-4738-bed1-6bd173e23bd4,"['Esportes', 'Filmes']"
+389d1feb-198f-426d-8a68-f4e848a6528f,"['Música', 'Filmes', 'Música']"
+392c4309-fb83-4aa3-8a1f-3ad4dca350d0,['Leitura']
+3990c6aa-9d31-49df-9a56-fb41ba8eb299,['Viagens']
+3a0c9f70-fb71-4799-a41d-6743f2a431ad,"['Esportes', 'Viagens', 'Tecnologia']"
+3a17eee1-85ba-42e5-91c9-6f421296c72a,['Esportes']
+3a2a39cb-fd6a-4e87-8952-eb68931ef95b,"['Viagens', 'Leitura', 'Esportes']"
+3a56714b-0904-4eda-b7d4-f94fbcea8898,['Notícias']
+3a5be3a9-1b6e-4937-8391-cf03df8e1c51,['Notícias']
+3aeadabf-a80b-4881-a926-0694ce9894bb,['Música']
+3b43d4b1-ba01-47c9-9e1c-86c65b9799ef,['Tecnologia']
+3b70e732-8c33-49fa-b8ea-bc162f936ad0,['Tecnologia']
+3b8eed7a-8510-46a9-a27c-99ee94c6ac6b,['Filmes']
+3ba6d9bb-e67d-4fa8-a033-8ee6d9101299,"['Ebook', 'Viagens']"
+3bb6bd2c-9e4f-4dab-919b-13b82757431d,['Viagens']
+3bc50234-aeac-488d-904e-0de76756fd93,['Tecnologia']
+3c443538-02f9-4977-9237-33e5586e8197,"['Esportes', 'Leitura']"
+3c775e7a-9634-4393-9278-90098a8b8932,['Viagens']
+3c837553-ec26-426c-8a78-315c7269bdfc,['Notícias']
+3cb63c98-6875-4352-b67d-0b767b0b0e1f,"['Música', 'Viagens', 'Esportes']"
+3cc6bebf-8686-4139-8f3c-b1da75d472d6,"['Filmes', 'Música', 'Filmes']"
+3cf9c90f-c042-4862-ae28-93c71cbfe3f0,['Ebook']
+3d959c1d-7eff-4acd-931d-841bc96030ed,"['Música', 'Música']"
+3d96ca9f-1755-4266-b8a2-1e4aace9bf58,"['Música', 'Música', 'Ebook']"
+3e893fdf-22ee-4c7c-b582-916c0ce8cae8,"['Ebook', 'Ebook', 'Leitura']"
+3e9cee7c-01ce-40c2-8e32-e45b2d68ba2a,"['Música', 'Viagens']"
+3ed2dc9f-1ee0-4b77-bf84-e9062c4f5004,['Leitura']
+3efb1933-36cb-45fd-a3c4-97293c0f95ff,['Viagens']
+3f2ac0ee-eac9-47ee-a301-a868600f9f84,"['Música', 'Filmes', 'Leitura']"
+3f31b433-13f7-46cb-aa59-8614cdf584cf,"['Viagens', 'Tecnologia']"
+3f34ad5f-7b90-45a3-8df9-2b280ad98eb2,"['Música', 'Música']"
+3f70a912-fa50-46ff-aeb6-086ba2fe2662,['Ebook']
+3fcdbcd9-0ef5-4aca-b7ed-0ea2efcf4461,['Tecnologia']
+3fddfd10-4cb3-487b-bd25-0865c7ad88ba,['Ebook']
+40875f4e-594c-4f1a-a9ac-f07c854e14fd,"['Ebook', 'Ebook']"
+40ce6db7-6cad-4de7-a4f8-42ecf9282c25,"['Ebook', 'Tecnologia', 'Leitura']"
+40da32b8-3e12-491d-a1c5-8326c2f96123,"['Ebook', 'Viagens']"
+414d896b-fd10-420e-a5da-06ac9666344e,"['Tecnologia', 'Notícias']"
+41cefc6f-4b75-48cf-93a3-cabe9d1de625,['Filmes']
+426b0f17-202a-438e-91f6-4e2ce6494085,"['Notícias', 'Filmes']"
+4280fea1-fc14-4436-abc2-a1904d1f32e2,"['Filmes', 'Filmes', 'Ebook']"
+42cb2259-0671-4a7a-885a-11cdd20c6100,['Viagens']
+42e02fcd-d87b-487e-986b-0c87bab165d0,"['Esportes', 'Esportes', 'Viagens']"
+42e94853-f290-4b39-93a1-bb27983e6791,"['Esportes', 'Tecnologia', 'Esportes']"
+4363c7c6-b2f7-4050-8178-17761703aa59,"['Notícias', 'Ebook', 'Viagens']"
+439130d4-2782-4715-a42a-ae9e38c62146,"['Viagens', 'Esportes']"
+43cfd1b8-a3d9-4135-b0ba-a9d2c0958be9,"['Ebook', 'Viagens']"
+44159d84-4a1f-4460-a218-35f723015eaf,"['Leitura', 'Viagens', 'Tecnologia']"
+44173638-eef8-4062-8239-695c5d539422,['Notícias']
+4488c1a5-5bb1-4e80-aefd-fe77eb5e0d57,"['Notícias', 'Filmes', 'Ebook']"
+448bb022-9de1-439c-903f-cbdaf2413987,"['Esportes', 'Ebook']"
+44a61fe7-c878-4a75-a34d-2a2f560247e5,"['Música', 'Viagens']"
+44d02f08-3325-4c19-983c-54d4831d542a,"['Notícias', 'Leitura', 'Viagens']"
+44d6e0f0-ff5a-4c8e-bf64-83eb0faaf01c,"['Leitura', 'Filmes', 'Filmes']"
+45318cb4-6c39-4e6b-b004-1875789dbcc0,"['Leitura', 'Esportes', 'Tecnologia']"
+45e5c7c8-2d49-48d8-a92c-016311e97b40,"['Leitura', 'Notícias', 'Viagens']"
+463654a9-1565-43b5-8f04-9ba448e762f1,"['Música', 'Tecnologia']"
+465dcea3-1685-4e4d-baba-32f93819433c,"['Viagens', 'Filmes']"
+46681f10-ed5a-4442-ba19-11c119428508,['Esportes']
+46cd9e4f-f52a-4046-9c3b-1c65816cdba9,"['Viagens', 'Ebook', 'Leitura']"
+47ae7182-4ee4-4e3e-851d-15a4294ca536,"['Leitura', 'Esportes', 'Tecnologia']"
+47b5d244-bb9e-4c14-a81f-ce229e48dc0c,['Música']
+47fd1c32-c68f-4fab-a0fe-0790add52d07,"['Notícias', 'Filmes']"
+4827454b-77d1-4034-ac5b-5c947491dbd9,"['Leitura', 'Filmes']"
+483875e1-5c03-404f-a0d3-d9f29290a359,"['Filmes', 'Música']"
+4934f4aa-958f-4f2c-ba52-5195b0ce558d,['Ebook']
+49b9071d-c6f3-442f-9216-9e1498832f1b,"['Música', 'Leitura', 'Ebook']"
+49bc21a4-ce90-4730-9350-474190bee88d,"['Filmes', 'Ebook']"
+4a3b426f-6a07-4814-bb55-ea91a57de027,"['Notícias', 'Esportes', 'Notícias']"
+4a43b908-bec2-4417-a2f7-78f8efedb32c,"['Esportes', 'Viagens']"
+4a60194e-7e9e-4ee6-9046-0e10634271ec,['Tecnologia']
+4a6df942-46b3-44b7-9ba5-b16acc932cfb,"['Viagens', 'Tecnologia']"
+4a6fcf0e-cb7e-4dec-9855-c80837a1d11c,"['Esportes', 'Filmes']"
+4a78bc31-4280-4a86-a395-453c0eb1efac,['Esportes']
+4a8acbc5-8164-48eb-9b06-5eccdb83eb9f,"['Notícias', 'Ebook']"
+4b37d4d5-6fa7-4eb6-a36b-018ec291a5a7,['Viagens']
+4b53cb57-beb7-4476-804e-2a6c3168bb00,"['Tecnologia', 'Notícias', 'Filmes']"
+4b9647b5-821a-487e-9640-f8b920faecad,['Tecnologia']
+4c84943f-f3fc-4d2c-880c-4e82046a6444,"['Filmes', 'Viagens']"
+4ca196b0-3ddf-4bf5-b831-a78edf3a6174,"['Ebook', 'Música', 'Notícias']"
+4cc2484f-9b2a-482b-9d22-932758e8bbc5,"['Ebook', 'Viagens', 'Esportes']"
+4ccb7075-5ec5-4588-80f7-fcdd6e69cbe8,"['Viagens', 'Notícias', 'Música']"
+4d4bedf1-e43f-4f59-9336-3985ee3a821f,"['Tecnologia', 'Notícias', 'Leitura']"
+4d57d5e9-5a01-41d4-ae9e-d38666e5d727,"['Notícias', 'Tecnologia']"
+4da409b0-3c43-48f5-9431-a8be78f29844,['Leitura']
+4de412ef-0a50-4d8e-978c-be2095312d46,"['Ebook', 'Tecnologia', 'Leitura']"
+4e247ce3-d7cc-442d-8f64-d7b5251e53cb,"['Notícias', 'Viagens']"
+4e92ade6-9aa9-4c3d-b506-088f33770291,"['Tecnologia', 'Esportes', 'Viagens']"
+4e94199d-27ed-4080-b8a8-0d06458e1c73,"['Notícias', 'Ebook']"
+4f0989d3-5791-4f12-b3bc-c7e006dc7d37,"['Filmes', 'Música', 'Filmes']"
+4f218545-a1be-49e2-9266-9df8d0f37a66,['Notícias']
+4f31808b-d31c-4a5e-ab2c-f175824ceda0,"['Leitura', 'Leitura']"
+4f366124-5ad4-4ce2-8b9b-736fb99e018c,"['Tecnologia', 'Leitura', 'Tecnologia']"
+4f3d3b43-ac03-4521-ac00-e59ab487426b,"['Notícias', 'Música', 'Tecnologia']"
+4fc11176-8a32-407f-a1e9-75dce4c9f0b2,"['Esportes', 'Tecnologia']"
+4ff7d6e3-b4cc-4c6c-a84f-9de58e2382b8,"['Tecnologia', 'Tecnologia', 'Tecnologia']"
+50243055-c40f-42f0-a58e-552f1129466f,['Viagens']
+502e181a-ee50-45a1-8dfc-451c9a650dda,['Ebook']
+506cf623-dbec-4ad3-9ccc-9b61ec697eb0,"['Leitura', 'Viagens']"
+507b9464-7f35-403c-95ed-a5f15f02ffee,"['Notícias', 'Esportes', 'Tecnologia']"
+50f0b0f2-2ac1-4577-88d0-1b993e70f705,"['Música', 'Filmes', 'Filmes']"
+514b05d6-5b13-41d4-8551-1a5b1cc9a93a,"['Música', 'Música']"
+515cfde5-91af-482d-87a6-176d0ad23fef,"['Filmes', 'Esportes']"
+51626bc9-3fae-4550-ac27-58510f28cce9,"['Notícias', 'Ebook', 'Notícias']"
+5187249a-ea2b-4825-866e-f70f8dcab640,['Tecnologia']
+51d1ae94-9172-4760-bb8c-3db8b02e2e9f,['Notícias']
+51fcc12d-f5e2-4e87-aa83-f80ae98a5ad0,"['Tecnologia', 'Notícias']"
+5200bca0-80f7-4bb7-af54-26139f985eff,['Esportes']
+52162030-57b9-454e-b78f-b4c5a7c9f31e,['Música']
+5272456c-1d8f-4f31-b467-0bfa9813dfc5,['Viagens']
+52784a7b-961c-47ad-8f31-df49a3b8cce7,"['Viagens', 'Viagens']"
+528b098d-f65e-4ecf-9083-6fce8e0f0f21,['Viagens']
+52f18fdd-bfeb-45d4-9df6-b02b16aa47b9,['Leitura']
+532874d9-da7a-4b04-9ad1-ca687816c07d,"['Viagens', 'Esportes']"
+539c1d22-e949-427a-8ecf-ba8a8e58006b,"['Esportes', 'Notícias', 'Esportes']"
+53c32c59-0e64-4eb2-b18a-419a314c5756,"['Notícias', 'Leitura']"
+53c400a4-33fd-4b1e-95d7-1ef993d64197,"['Esportes', 'Leitura']"
+54441b18-6ba1-4e1a-ad54-5c999ad20c55,"['Esportes', 'Leitura']"
+5468d359-69d7-4f33-a74b-23c0f84f2b27,"['Tecnologia', 'Música']"
+5490b0ef-9839-42b8-9293-7d6e2cf1ad2b,"['Viagens', 'Viagens']"
+54b9fb3e-0a86-4443-bab8-56913060ce80,['Leitura']
+54be0fda-880d-43f1-b50f-674ccfbd2f19,['Tecnologia']
+54e65fe2-8a5c-49ee-97cb-34876a8f350a,"['Ebook', 'Filmes', 'Notícias']"
+552a5378-d035-47f7-80e3-64ec73e5a918,"['Esportes', 'Ebook']"
+553ee130-84f6-453e-bb54-345a72aaefdb,"['Tecnologia', 'Viagens', 'Filmes']"
+5579dd5a-951a-4616-9aa7-84178abf9e14,"['Leitura', 'Tecnologia', 'Viagens']"
+55c59102-e2dd-45ed-a2db-d3d38039ded8,"['Ebook', 'Música', 'Leitura']"
+55e74dc9-861c-4142-8b1b-e58abbfb0d58,"['Filmes', 'Filmes', 'Ebook']"
+55ed3eff-c72f-4353-8c35-a679aaaa2f17,['Filmes']
+56483e41-afee-4a63-8616-5a5fa8c0b235,"['Tecnologia', 'Tecnologia', 'Viagens']"
+56939e7b-5ecd-43c2-9b39-425c662715c5,"['Viagens', 'Tecnologia']"
+56b3b3db-b555-48ed-b3be-1c4ccc86af10,"['Viagens', 'Ebook', 'Tecnologia']"
+577f1b90-5b1e-4db9-9cf6-596dc1ba4c10,"['Viagens', 'Filmes', 'Esportes']"
+57ed30f3-15b4-4c1f-9e2d-e1e0df37d979,"['Ebook', 'Notícias', 'Filmes']"
+585de1e3-7043-40b9-8847-0521913fa2cd,"['Música', 'Esportes', 'Leitura']"
+58f8b825-32f0-4aac-a608-ae1900898a77,"['Música', 'Tecnologia']"
+59148135-c6d1-4ecf-bd9a-c8426ede8ed4,"['Ebook', 'Viagens']"
+5957650d-969c-4bb2-b860-c76d2cdab8d4,['Música']
+599dc798-9731-438c-8135-b6c515f71a31,"['Leitura', 'Tecnologia', 'Música']"
+59d9572e-7f5b-4cb0-8eb2-0298e0481328,"['Música', 'Leitura', 'Esportes']"
+59da187a-ca61-4d29-938f-e0fa3b6dc5c4,"['Tecnologia', 'Leitura', 'Notícias']"
+59f291db-9ce0-4bd7-947d-b24bad30156b,['Tecnologia']
+5a237cdd-41cb-471e-97ce-13cbf8c4181f,"['Tecnologia', 'Música', 'Notícias']"
+5a3b3330-2e68-4b61-bec9-b873c22cdad9,['Tecnologia']
+5aa9118f-dd06-4bda-bbee-81a2b642c59d,"['Viagens', 'Ebook']"
+5ae05795-d5de-4489-8722-0e66bcd7c118,['Música']
+5af8e0b5-39f2-4c93-a3ea-3c369f72ea4f,"['Esportes', 'Tecnologia', 'Viagens']"
+5b15f445-be18-404f-9d01-c960f34ea0d1,"['Notícias', 'Esportes', 'Leitura']"
+5b4e39f6-8447-4d2b-98da-18bff17ceaac,['Esportes']
+5bc9b1a8-5542-4768-a32a-a5deb4991eab,"['Esportes', 'Notícias', 'Leitura']"
+5bcd02b8-b604-4bc6-b7ed-90fc169c2666,"['Viagens', 'Notícias']"
+5bd28665-d39a-488a-aa04-e554ceee810d,"['Filmes', 'Leitura', 'Leitura']"
+5be2aeec-5d56-4feb-8b35-e1e294427243,"['Esportes', 'Viagens']"
+5be44b4e-d7f7-4369-97c0-d0d1b5acb6b0,"['Viagens', 'Notícias']"
+5be8c394-49c4-4971-995f-13402624b352,"['Tecnologia', 'Tecnologia', 'Notícias']"
+5c2407fe-6266-4382-8a0a-3a254663e7e8,"['Música', 'Filmes']"
+5c4065b0-3aa2-43ef-941a-9facfe3ada55,"['Viagens', 'Ebook']"
+5c4442eb-b5f2-4ec4-be56-22b1a115b884,"['Viagens', 'Tecnologia']"
+5c9e8c92-b288-416a-9cfd-839b38b0a41f,"['Esportes', 'Notícias', 'Viagens']"
+5cd31ff7-792a-4cd4-9893-686ce44271f5,"['Tecnologia', 'Tecnologia']"
+5d0d17c4-653f-49e2-8741-cf9ccfec047f,"['Leitura', 'Filmes', 'Música']"
+5d5dfeaa-bb0c-4766-ad94-7135abe976f8,"['Tecnologia', 'Leitura', 'Viagens']"
+5d628645-f8e5-4f2c-8cbc-c0509839b11f,"['Notícias', 'Filmes']"
+5e0757c2-d33b-42b1-903f-3df90e6368c0,['Notícias']
+5e14e490-3b78-4a9f-9d6e-3014be75ad07,['Filmes']
+5ea1f89d-b990-4f97-b96a-1e4045891797,"['Esportes', 'Música']"
+5f0411b0-fd2d-4ab2-aa15-4696ea8e3e72,['Música']
+5f401fa3-ebdc-4003-9ccf-0162e9226b4b,"['Leitura', 'Ebook']"
+5f45e0f9-2175-4b4c-925c-ffaf5862afec,['Notícias']
+5f4f2327-d520-41bd-bb1d-4dfeb5644683,['Música']
+5f56ed1a-6b71-4127-809e-d1371e85d4e8,"['Viagens', 'Filmes', 'Viagens']"
+5f5fe510-8fce-48fa-857e-c61019a90210,"['Filmes', 'Ebook', 'Ebook']"
+5f9a7557-945f-4904-bcb5-9029a1d4038c,"['Música', 'Leitura', 'Música']"
+5fc11994-7cda-46ca-b166-f386a28297ae,"['Tecnologia', 'Leitura']"
+605064b5-b070-4d3f-b2ee-7b15321fffa3,['Viagens']
+624b9410-2f06-49cc-b861-801e39a4e627,"['Notícias', 'Filmes']"
+6258d417-1bcb-4da9-8f08-e95855554358,['Esportes']
+62634c0a-17cc-4bf0-952e-3ac5a89b2c64,"['Viagens', 'Leitura', 'Filmes']"
+6278395c-3c50-444a-bcba-2552e7514593,['Música']
+62a46d53-c1ea-4779-97ec-19e45da1ab3a,['Notícias']
+62d4030c-7449-4c31-aa42-7e09463ca8a7,['Tecnologia']
+631fcad0-76b6-41aa-9994-488b202d945d,"['Filmes', 'Filmes']"
+63434b95-9f7f-402d-989c-a2152132de9c,"['Música', 'Filmes']"
+6392f6e2-bcb1-482c-ab38-a71c96b3252b,"['Música', 'Notícias']"
+639381cd-4e9a-476c-8d77-74f7c57f09ec,['Tecnologia']
+639fe22d-83fc-4867-8438-4c1f70366765,['Música']
+63d63215-22df-452e-9cda-4c4a8f53ed1f,"['Leitura', 'Leitura']"
+63dfb531-8ab4-498d-a9bc-ac11c664e887,"['Filmes', 'Notícias']"
+647bfe7e-fd90-4352-a6b8-ecc302878ce5,"['Viagens', 'Leitura']"
+64a702f3-d8ce-4c8f-8c24-829f647d26db,['Ebook']
+64e89ec7-2154-4266-b78d-b7c59f49e5c1,"['Filmes', 'Notícias', 'Ebook']"
+653564a7-c515-4ba8-b34e-4664e2be9a04,['Tecnologia']
+653c62b0-3a54-456e-a35d-88c62db22854,"['Música', 'Filmes']"
+656554c0-6fa6-49fe-8945-30dfbf0c5d0d,['Esportes']
+65937c2d-0455-4279-a296-9e62eeead358,['Leitura']
+65b306a5-5084-4692-b59f-8cad0913a885,"['Filmes', 'Ebook']"
+65de72e9-c9e7-4a27-9e94-7c051bfd5c83,"['Esportes', 'Viagens']"
+65ed5745-f53e-4643-b40b-8d0e8f70c487,"['Esportes', 'Esportes']"
+65ee4f7a-8a44-4ee1-b050-c55d9ae7a2fc,['Esportes']
+66772dbf-7b88-4815-8bc5-ca13c11c8316,['Leitura']
+66a617e1-3f86-4440-a6fc-dad202f2bebe,['Filmes']
+674e39dc-0acc-42b0-865f-70156d425cb7,['Ebook']
+679e0588-66cc-4d77-bba7-024cd2ffcfde,['Viagens']
+67c51fb5-26f3-4287-b89f-666ea1632ac0,['Tecnologia']
+67e2bf1b-a9a3-423d-9cb3-1c6d018ff63d,"['Viagens', 'Ebook']"
+67e521b5-8dae-4856-8eb5-2c724972a222,"['Filmes', 'Filmes', 'Tecnologia']"
+68a3ed4c-3fb7-415c-a293-32310b93722f,['Ebook']
+68b309c0-58b2-4ad6-ac94-65b5fb30e6e3,['Ebook']
+6900cb04-76d1-428d-80b8-68cf058f1e22,"['Esportes', 'Música', 'Filmes']"
+6941dcf7-b907-46ca-bffe-b44fda41c253,"['Esportes', 'Ebook', 'Filmes']"
+694568d1-1a60-4488-acd7-985df1d6433d,"['Música', 'Tecnologia']"
+69562dc1-3924-49c5-8806-39d435e29367,"['Ebook', 'Tecnologia']"
+695e3b08-981a-4f63-a8d2-022e2f32c820,['Tecnologia']
+697c0b1b-4cf4-48a2-b612-ba7f0ca08548,"['Música', 'Tecnologia', 'Esportes']"
+6a875b22-7f04-46a4-9c33-65662eb43adc,['Tecnologia']
+6ab57265-d61a-43f5-bee5-d94ba9144567,['Esportes']
+6abd5b5c-692e-455a-a1e3-5b440cfc00d1,['Viagens']
+6af97b1c-c26f-463c-8253-20ed0078276d,"['Leitura', 'Ebook', 'Música']"
+6b282abe-109f-490b-8cd5-fedf9d2b73bd,"['Viagens', 'Leitura']"
+6b376f29-9e54-4803-bdd8-13922ea21b1e,"['Esportes', 'Ebook', 'Viagens']"
+6bfbd046-b19e-48cb-85b7-442fd033b5f9,"['Esportes', 'Ebook']"
+6c0f31b6-daf5-4245-9a3d-8030e61b2ad0,"['Ebook', 'Música', 'Notícias']"
+6c49f058-0370-4952-ae25-3326e85536f0,"['Viagens', 'Esportes']"
+6c8bd281-72cd-456e-b24c-4710c5f1ed8f,"['Leitura', 'Esportes']"
+6cb6a668-dbb0-43f7-b750-a615bacd62b5,['Música']
+6cdc34da-13e9-44c5-bb2c-9211b93f504f,"['Viagens', 'Esportes', 'Viagens']"
+6d084c74-5e77-43d9-9304-2913586bf895,"['Notícias', 'Filmes', 'Música']"
+6d3915d2-c5d2-4726-bf64-3f512fa04565,['Viagens']
+6d3c53bd-f891-46ed-9d49-10ce0497c8c7,"['Viagens', 'Leitura', 'Música']"
+6d4866fc-0bbd-4131-85c1-2258341c8c0e,"['Música', 'Música', 'Filmes']"
+6d75033c-3c6b-45fb-9e27-358acd279788,"['Ebook', 'Ebook', 'Esportes']"
+6dc39954-4dc8-4b1e-aa98-c26e757086d2,"['Tecnologia', 'Filmes', 'Ebook']"
+6de7e0e3-30ba-4972-a6d3-d58d5eefd369,"['Notícias', 'Viagens']"
+6e0f11e9-6c9b-48b3-9265-98f50aa5b9cd,['Tecnologia']
+6e1d1d95-a857-48d7-9fc1-5c2937a438f3,['Viagens']
+6e7db9d4-0cbc-42e1-8eea-9b4fc81d6a09,"['Filmes', 'Filmes']"
+6e8da409-5480-4ec9-bf56-9cea10f433bf,['Ebook']
+6fa1579b-34fe-432d-b7c9-6ccf696c8401,['Esportes']
+70267eab-32d9-4e28-9792-5922de36c751,"['Ebook', 'Esportes', 'Ebook']"
+7043f7fd-626f-4aee-a334-22cd370c6775,"['Leitura', 'Viagens', 'Filmes']"
+7059c1a7-2613-46ed-9462-716648acbd05,['Música']
+70ac56ca-ffbf-4cbe-909e-f32ed6dd63d7,"['Tecnologia', 'Ebook']"
+70d3b7d0-1db3-44b4-92fa-e38a5ee1f86c,['Música']
+70d7e132-c1ff-440e-b0f2-e40ccee4a34a,['Música']
+7133cffa-4387-430d-a95b-47e62487d5b8,"['Música', 'Notícias']"
+713d5155-f25e-426f-aa41-9bf0e921c749,"['Esportes', 'Notícias', 'Tecnologia']"
+7171f826-33c1-4c9c-a8a9-ba7175f5da53,"['Música', 'Notícias']"
+7190f4eb-4efe-4c2d-89b3-cee3720a18ff,"['Ebook', 'Notícias']"
+719f6dbe-3d72-4506-ab0c-8a20431261dc,['Ebook']
+71a2de5e-3032-4634-ab9e-9393e40dd714,"['Esportes', 'Tecnologia', 'Notícias']"
+71c581e5-3e74-4c9c-ad5c-abe0b2804c0d,"['Música', 'Tecnologia', 'Notícias']"
+71cc8714-8537-4921-979d-45c30efd142e,"['Esportes', 'Ebook']"
+7221f71c-edbd-4365-8eb4-2d8eaf08bdcb,"['Leitura', 'Esportes']"
+722e2a59-e2d4-4004-8c70-59c7c6ac5949,"['Notícias', 'Viagens']"
+7256bf96-35be-4c6a-952a-13330aa4a41f,['Tecnologia']
+730529cc-340b-44f8-ba4a-f11f7aad424b,"['Notícias', 'Ebook', 'Viagens']"
+73123f10-1723-4f5b-b364-95068f09cbf6,"['Música', 'Esportes']"
+733a1e30-d442-4a77-851d-6b387486ab5d,['Tecnologia']
+73bc5678-18da-4e36-9f62-a957afaccc28,['Notícias']
+73c617ba-fd41-4da7-90a1-632221e0ef80,"['Ebook', 'Leitura']"
+741d5701-ec9f-4593-b2aa-5ea8c1db38af,['Tecnologia']
+742eb88b-229d-4b53-9922-d0032ea06405,['Música']
+74a84c89-146b-4c7a-99af-a37b25e75a80,['Notícias']
+74afeca8-ed73-4cb2-bbf8-dd6b2ba7c266,"['Filmes', 'Música', 'Ebook']"
+750cf86c-0c52-4854-b425-c4a943262af6,"['Leitura', 'Ebook']"
+7569cb9e-e097-40cd-8fe6-55e91dd86bc8,['Tecnologia']
+75a1265d-b5e3-4880-ac0a-8ed009e45224,['Tecnologia']
+75a9d627-565c-4964-b328-8a00a29854e3,"['Notícias', 'Filmes', 'Música']"
+75bea48e-4c69-45f9-9163-d9ff83ad7d4c,['Esportes']
+75c8f817-7b23-49a7-a9c6-80e1a31f0967,['Ebook']
+75cb325d-d2ba-4411-84b3-fb756bf5c004,"['Tecnologia', 'Viagens']"
+763c5449-af91-4fa5-939a-3b41c158b49b,['Música']
+76433a97-678d-46a7-8461-eafe12bcc353,['Leitura']
+7699f07f-a27e-4c92-a93e-a8cd02e9148e,"['Ebook', 'Viagens']"
+76ffc348-b966-45a2-bc97-1eac3b3853c1,"['Leitura', 'Viagens']"
+7742905f-02fc-4dd4-aff0-ee0490f0f89b,"['Esportes', 'Viagens', 'Música']"
+77450f13-0444-43b6-89d1-1e5e32b4ee30,"['Filmes', 'Esportes', 'Filmes']"
+775c7315-f16f-4b1c-9ba0-5fe31bbd3027,['Filmes']
+780511d4-9aec-476d-afcf-9fa8c5fcd062,"['Esportes', 'Filmes']"
+78c6196d-5a63-4ff2-81b0-6e235ee6f0fc,"['Esportes', 'Filmes', 'Viagens']"
+78c9af52-37bc-4e2d-9eda-4a38350ec05c,['Viagens']
+7942cc82-43c3-4118-9a59-45b7c1cabb99,"['Ebook', 'Tecnologia', 'Viagens']"
+797e14d7-dd98-48e4-b0a8-a3549954f1a5,"['Música', 'Ebook']"
+79bd8023-f026-47e4-bc1a-9c4a24cf3a18,"['Viagens', 'Viagens', 'Viagens']"
+7a13c9a6-2120-4c2e-960d-130684a0447b,['Esportes']
+7b1bc7b0-f784-4aea-9e72-b689057ec15c,['Filmes']
+7b6e6c8c-f6bc-4599-9a5f-ccf50e1c277c,"['Tecnologia', 'Notícias']"
+7c08380d-ec62-4a7b-994e-8948e5a3aa0d,"['Música', 'Tecnologia']"
+7c10dc40-92b1-4fce-b105-6d0624e8ad69,"['Tecnologia', 'Leitura', 'Notícias']"
+7c32e9e6-eb64-45d9-8a61-1681e2d7d79c,"['Tecnologia', 'Notícias']"
+7c8e953e-9cc7-481e-a4b2-6e8d1aefff89,['Tecnologia']
+7caad7dc-0edf-4004-aedd-ff8dc83984e9,"['Tecnologia', 'Viagens', 'Ebook']"
+7cabc6d2-a0e6-4405-a53f-af3dcf5ede41,"['Notícias', 'Viagens', 'Viagens']"
+7d39e307-d143-4944-90cc-1c79c3dabf66,"['Tecnologia', 'Leitura', 'Música']"
+7d88688d-6360-4e51-9b8c-bbc5b3e27753,"['Leitura', 'Tecnologia', 'Ebook']"
+7d991de2-d644-4628-92c0-126de1c2158e,"['Filmes', 'Tecnologia', 'Música']"
+7dc08401-8127-4198-9db6-e238a56143c3,"['Tecnologia', 'Notícias']"
+7dc75113-89b2-4276-a57d-d39fea1bcacd,"['Notícias', 'Música']"
+7e008845-f6de-4aaf-988f-aaf5551d1ad1,['Ebook']
+7e077092-324c-4fd6-bb7b-12131149c208,"['Esportes', 'Filmes', 'Ebook']"
+7e2ceeea-72e8-44e7-936e-3d8f9ce880b8,"['Viagens', 'Leitura', 'Tecnologia']"
+7e77fe17-1149-4f0a-b680-039e5e463eae,"['Filmes', 'Música', 'Viagens']"
+7ebfea00-174b-4d96-af51-68e297067f95,['Tecnologia']
+7f0849f1-189c-4a32-9b4e-a9b16377b4e4,"['Notícias', 'Filmes']"
+7f239ec4-b5b2-4d11-82a0-08f2a2ba5668,['Ebook']
+7f607b01-824d-4493-ac53-a52c39ec596d,"['Esportes', 'Notícias', 'Ebook']"
+7fd15f7c-c590-46c2-adf0-ae358528c963,"['Ebook', 'Leitura', 'Filmes']"
+8012de28-4c03-4b7e-9eba-07e15c075458,"['Ebook', 'Música']"
+81522868-7122-4e8d-9458-3524c2edd085,"['Notícias', 'Viagens']"
+815e8388-6228-4a76-9ed8-10a50c0e085a,['Leitura']
+83451f41-3b4a-4674-9816-597e1e27d383,"['Leitura', 'Leitura', 'Tecnologia']"
+8348d867-e632-4d99-938f-4bdb4af552e6,"['Ebook', 'Tecnologia']"
+834b4db6-f31e-4617-b984-291375f5c346,"['Filmes', 'Tecnologia', 'Filmes']"
+838dffae-f571-45a0-b833-267873e4e9dc,['Leitura']
+83c79e99-d93c-4cea-a6a5-64bf84c208b6,"['Tecnologia', 'Música', 'Viagens']"
+83cc7139-1261-4332-9cdc-52d3ff42a557,"['Esportes', 'Música']"
+84b8717c-7b7e-48b9-9fd1-75db29d19f12,['Filmes']
+8508cb19-011f-4389-b6e0-6467769adff2,"['Música', 'Viagens', 'Esportes']"
+85e0e136-15ed-43c6-a74c-5fff2aadf928,['Tecnologia']
+862575dd-2333-48c5-8000-38d5f675131c,"['Filmes', 'Música']"
+8686337d-faa6-4ec6-83fa-d579f14dda02,"['Filmes', 'Ebook']"
+86a10b1e-db93-4779-afef-c1e533e3e06c,"['Música', 'Música']"
+86b4815e-4e51-4179-8823-e0bda588bb89,"['Tecnologia', 'Esportes', 'Notícias']"
+86ba11db-d82f-41aa-99b8-8616293beabf,"['Leitura', 'Esportes']"
+872ee3e3-9abc-40ca-a491-d19401560172,['Filmes']
+875a23eb-02fa-4ce3-a226-1ed25cbba7dd,['Notícias']
+87b1d608-9211-4ce0-8193-7eb8216aeb01,['Filmes']
+88b25508-723a-4b0c-9fb9-a4a09fdef703,"['Filmes', 'Leitura']"
+899b127e-6940-44cf-b519-5b13e8352081,['Música']
+89a97879-3c9d-46e9-ab9b-c80acd267667,"['Leitura', 'Esportes']"
+8a07ee85-d54c-4024-8409-4f65c488975b,"['Tecnologia', 'Ebook', 'Música']"
+8a20a8fe-b273-4c81-bfcb-eb19bce63fee,"['Ebook', 'Leitura']"
+8a54d115-b91d-4568-b0a3-62903ce2b385,"['Viagens', 'Filmes']"
+8a98b52e-7782-4889-b57c-52964ad2e2eb,"['Notícias', 'Leitura']"
+8aca7093-8b3f-4cad-acbe-732da218c656,['Leitura']
+8b20b89b-163c-4be2-98d8-77ab008f0e8f,['Filmes']
+8baed88c-9b6d-4344-853a-8a9bf32bfa13,"['Esportes', 'Leitura']"
+8bcf44af-e212-46e2-969f-0b2b2f57e12e,"['Esportes', 'Ebook', 'Tecnologia']"
+8bd2e8eb-ad48-4913-bc89-99cbc61acf97,['Ebook']
+8c9e4168-407f-4549-9c1c-3d8d452ec476,"['Ebook', 'Leitura']"
+8c9ed532-cbf0-44ec-9d3c-194bc73caf6f,"['Música', 'Viagens', 'Esportes']"
+8cdf1f4d-5c6f-4942-a07d-f785cfcbca12,['Esportes']
+8d1956f7-f278-449d-b88d-d2c46d50696c,"['Música', 'Viagens']"
+8d30c91d-8ffe-493a-81ff-2d8fe578b32a,"['Ebook', 'Música', 'Viagens']"
+8d9fe59a-c3af-47a8-8725-05f9f3ad3a8c,['Notícias']
+8e188632-af64-44fb-8b97-adb976bb062a,['Leitura']
+8e3503ce-280a-4d24-a45b-561c6e2ead8d,['Ebook']
+8e562dea-10e3-4ac3-8cf2-f58ecddf913d,"['Filmes', 'Tecnologia', 'Filmes']"
+8e578002-0cb5-41a5-a9d7-7756a35e1245,"['Música', 'Notícias']"
+8e6a29ae-a2ee-423a-8a3c-1d1982d78761,['Ebook']
+8e9703bb-b028-4980-a12c-0a2a373c6132,"['Notícias', 'Leitura', 'Música']"
+8eba44c0-bb13-49e0-9b18-7c905ae9c8b1,['Leitura']
+8ebef99b-7d31-475c-a7a2-895c324b8d5a,"['Viagens', 'Leitura', 'Esportes']"
+8ec60ee2-0789-4414-8411-87da2f07be22,"['Tecnologia', 'Ebook']"
+8ecaebcf-95b7-453a-bb79-e5e9619fa183,"['Viagens', 'Ebook']"
+8ee4a5e4-5dfc-46e3-9825-0f09c4e5dc18,['Esportes']
+8efaf2ee-0b7d-4ec3-a5d8-40b4ccf2ef5b,"['Notícias', 'Filmes', 'Música']"
+8fc6b494-eeb1-45cf-85be-087b82eec8bd,['Música']
+903e5254-d955-4556-bd69-2d34cfb6baaa,['Viagens']
+9047cc57-308b-41ea-9755-321ce4ba287c,['Notícias']
+90946516-5579-42c3-ab26-83bb9ef7e468,"['Ebook', 'Filmes', 'Notícias']"
+90e8367e-4d86-422b-a0d2-36f1c50d2eda,['Música']
+9159758b-bf77-41df-99e6-1604680ed961,"['Ebook', 'Tecnologia']"
+917d6db9-90b2-4a60-b15b-19fc7f89a371,['Esportes']
+917e57c0-1e04-485e-83e7-f7eb6112eec0,['Filmes']
+91bd0854-685a-41a1-836e-690dd97094c5,"['Esportes', 'Viagens', 'Notícias']"
+91d39fba-0967-4844-8fee-f7ec8ed3e23f,"['Tecnologia', 'Viagens']"
+921355e9-ad0d-4f9f-ae48-1c52556dcb09,"['Leitura', 'Viagens']"
+923a0c07-90ae-4653-8fa4-e6d68a720f30,"['Viagens', 'Leitura', 'Esportes']"
+9264de72-b8df-48eb-8e43-51516964db25,['Viagens']
+92770dbe-baf3-4b6d-a324-36aa5af4a413,"['Notícias', 'Tecnologia', 'Leitura']"
+928977db-db1e-4430-bfbe-faadd75bb014,"['Tecnologia', 'Viagens']"
+92b1d2dc-0330-4dd5-b4f1-030fc477801d,"['Leitura', 'Tecnologia', 'Filmes']"
+92c0e909-30b6-4981-8536-adea591e2914,"['Leitura', 'Notícias', 'Esportes']"
+92f7e52f-b5eb-4ea0-bd96-93961c2d5cbb,"['Esportes', 'Filmes']"
+936e3d04-1ef4-4b30-889f-44eb9cc69bbc,['Notícias']
+93fe565d-fa49-414c-a5c8-d19ee414e0b6,"['Viagens', 'Leitura', 'Notícias']"
+93fea0d1-8712-4925-b955-425f2675d107,['Viagens']
+94d63493-22b8-4b28-9546-3ff4d1c3068a,"['Leitura', 'Notícias']"
+94d8bc81-8ed1-479c-a330-52f335b99752,['Música']
+94e1f950-3852-46d3-b853-3e1b95310c1f,['Filmes']
+95330163-aa85-42d9-9335-e490d89d23d5,"['Tecnologia', 'Viagens', 'Ebook']"
+9544dbec-f077-4fd6-9b5e-f9e107b8351f,"['Música', 'Leitura', 'Esportes']"
+9545b2a1-d503-4024-a6c6-0af43055bd31,['Filmes']
+958c9504-b672-4dbe-add0-b2a5a1c9aa3f,"['Música', 'Esportes', 'Música']"
+95b273d1-f3d0-453f-be6e-da9d17e5a8ef,"['Tecnologia', 'Ebook']"
+95c48b0b-a9db-4046-8bab-b6a9968f3bb7,['Música']
+95f90883-f680-4300-ab12-77b88883a80a,"['Filmes', 'Viagens', 'Esportes']"
+9629bb7c-c361-4edf-8252-4dea5fd245fc,"['Filmes', 'Notícias']"
+96a3b751-2d5b-4b75-9964-016dedb5f834,"['Leitura', 'Leitura']"
+96ef869f-70f7-44ce-9882-efa56c34cf0e,"['Tecnologia', 'Ebook']"
+970b6957-a5e3-47a5-be52-46daf572a0ab,"['Ebook', 'Ebook']"
+97344833-4b42-4891-bce2-cd46a94bc6b5,['Viagens']
+97454434-b860-4455-99a3-13581922f5e7,['Viagens']
+97de5860-12fa-484f-a869-2a139cc5eb9f,['Filmes']
+97e9069b-17db-4271-bd72-be6ba3a10498,['Música']
+988b4b92-8ed9-43d2-beb5-3b577dd7fb92,"['Viagens', 'Leitura', 'Esportes']"
+989d3c71-9d4c-4553-b49c-c6c5947f16a5,"['Leitura', 'Viagens', 'Ebook']"
+98e4cb3f-c680-4fad-9589-61e6f90b133c,"['Notícias', 'Ebook']"
+98fb5c78-4668-4a35-9b2c-04f7250313c8,"['Tecnologia', 'Viagens']"
+994b2f05-60e2-42e6-9686-d3b4fab305a4,"['Viagens', 'Leitura', 'Esportes']"
+9961225a-186b-4460-8574-7af8a4d0321b,"['Ebook', 'Tecnologia', 'Ebook']"
+998dbd6d-9fac-4397-a1f9-10145ca85c8e,"['Música', 'Notícias']"
+99928f5a-f491-4cc8-9db4-d442ace872fc,['Filmes']
+99c4d637-d8f8-4e35-a769-dfac22b738ba,"['Leitura', 'Filmes', 'Tecnologia']"
+99df9f6b-67fd-41c1-a00d-fa4525466966,"['Viagens', 'Música', 'Notícias']"
+9a169f3c-029b-438d-b154-c41796cf6c1b,"['Tecnologia', 'Filmes', 'Esportes']"
+9ad85d4c-8518-483d-9f06-5b6449fb4816,"['Esportes', 'Leitura']"
+9aecaf9c-0ee6-4c53-9140-909eab752e59,['Leitura']
+9b6e256d-80bc-486a-ae3f-2ecf0a685051,['Música']
+9bcafcb6-1a7b-4f44-b813-7efa7c4b0e88,['Filmes']
+9c06781f-a50e-40ec-8fd6-3f0f25b8329c,"['Filmes', 'Viagens']"
+9c1b3912-5ddd-4da3-91bb-67afd07151da,"['Viagens', 'Tecnologia']"
+9c3830a4-f3e7-4d55-b1ba-56627935eca1,"['Esportes', 'Tecnologia']"
+9c7b8a8d-3b52-4904-8f7a-537dec2d30d6,['Esportes']
+9ca3981e-b9de-42c1-85f8-61000b1a2d44,"['Tecnologia', 'Ebook', 'Notícias']"
+9d7dad01-3f3d-4b67-92f4-de5fc004fd5d,"['Tecnologia', 'Ebook']"
+9db89964-629e-43d4-8c3b-9e92e988e9c4,"['Viagens', 'Ebook']"
+9ed2f639-8f9c-445b-bf94-a01e8c57ca10,['Notícias']
+9eee553f-c8b0-4a52-8be9-3701bcba5d61,"['Leitura', 'Filmes']"
+9f1a9201-87c9-47f3-88fa-a7d6fafa2082,"['Música', 'Esportes', 'Esportes']"
+9f301dc2-0322-4b6c-ae99-36e66c054ed0,['Tecnologia']
+9f51875f-053f-4d18-8ab6-9a15eb7d3588,['Notícias']
+9f6bd21d-a679-4c1d-9642-f5945cd781b6,"['Leitura', 'Viagens', 'Ebook']"
+9f87eb03-2d76-4885-8001-459f14d603c5,"['Filmes', 'Filmes']"
+9fc93901-7905-457a-9a89-80eb7608ca8d,"['Filmes', 'Tecnologia', 'Tecnologia']"
+a0073914-50f8-4c73-a3f3-abae9c0f7180,['Ebook']
+a0484057-40de-404f-9df1-5e60c7055e6c,['Esportes']
+a08c7975-82cf-4fae-b44b-3f4a7b905105,['Esportes']
+a139069e-feac-40f3-8c3e-265bcd9cf164,['Viagens']
+a1b82f3d-4b37-42e6-bcb9-d08cf7524651,['Notícias']
+a1da2ac0-2c8c-459e-88a7-99207549a541,['Esportes']
+a1f19a10-d300-4fcf-aaf9-698e14e1b3f3,"['Esportes', 'Filmes']"
+a21d318b-5a89-4f32-87a5-f454de07ee09,"['Esportes', 'Viagens']"
+a251d604-61b6-4750-926e-de86839ebf31,"['Tecnologia', 'Música']"
+a2d5e90d-a2c2-43cb-a8a2-65bcc83213eb,"['Ebook', 'Ebook']"
+a336c235-9d1a-4e3d-8d75-583b3753288c,"['Ebook', 'Viagens']"
+a33c7cc9-113c-4232-acc1-747a313cae91,['Filmes']
+a3a1eacb-aa2f-4ede-a062-4f4a1f1dd6e0,"['Leitura', 'Filmes', 'Notícias']"
+a3aa8c2f-915e-409a-b048-674cac835362,['Viagens']
+a3cd6437-0cea-4b58-b7c6-f6ecafd7c458,['Viagens']
+a420d08f-7d1c-4c84-ad82-b8121f8f6907,"['Tecnologia', 'Ebook', 'Notícias']"
+a5139b86-21e2-4815-8aac-435bef77f375,"['Esportes', 'Notícias']"
+a54f466e-0f73-40b9-b4ea-086c51812c04,"['Tecnologia', 'Esportes']"
+a5a767ba-363f-4f80-93e6-f027d4d0e8cd,"['Esportes', 'Ebook']"
+a6cdddd9-b934-4b41-86f5-3db402c1e633,"['Esportes', 'Notícias', 'Música']"
+a6ef31d5-8def-4b15-996b-cdb67fa4fe9a,"['Música', 'Música', 'Filmes']"
+a7485597-8254-4c17-8f34-7206dbbe8b0a,"['Música', 'Notícias', 'Viagens']"
+a7695bfc-e857-4279-a53d-538e7a416ea4,"['Música', 'Notícias']"
+a7c8fa41-caa1-45d9-b995-86e98c3d8d0e,"['Leitura', 'Ebook']"
+a812b7c0-ff72-4eec-9f11-2ef3cf1b8972,"['Música', 'Esportes', 'Esportes']"
+a83f9b57-9c45-4360-be29-6ef6c834f825,['Tecnologia']
+a8656e5d-f01b-4886-9f7d-455e1de36102,"['Tecnologia', 'Viagens', 'Ebook']"
+a86f2618-b2a3-4b0a-b9a2-1bcaf271b589,"['Ebook', 'Viagens']"
+a8b1b721-99fc-4912-9e1d-c4ca99ece176,"['Notícias', 'Esportes']"
+a907415f-94c9-4c91-80b2-489759866661,['Viagens']
+a92f758a-0aa8-49ac-a3f0-5ff635e8a66c,"['Música', 'Música', 'Leitura']"
+a9ed39c2-bd30-4b56-8cb6-c0ed361aa1cd,"['Notícias', 'Viagens', 'Viagens']"
+a9ed6595-5287-47b2-bd2c-079dc82074e0,"['Viagens', 'Ebook']"
+aa019d61-d728-4a01-9c97-58ab8fae3097,"['Música', 'Notícias', 'Viagens']"
+aa21140b-1965-4534-8f4e-77284a0441ad,"['Viagens', 'Leitura']"
+aac5cb2e-edfe-4bb3-9ef7-fe6fb2c29a24,"['Filmes', 'Viagens']"
+ab17a440-2600-47e9-a3c6-59e394d3a270,"['Viagens', 'Viagens']"
+ab31e924-e042-430b-af90-a7373b79fb92,"['Viagens', 'Tecnologia']"
+abe9b67c-714d-4fd9-8368-853317f67093,['Notícias']
+abf5bb1f-a82c-40c9-b82d-334c33c34b15,"['Esportes', 'Viagens']"
+ac755ad3-24e0-402f-884e-c1271e883449,['Viagens']
+acb4ef65-c7b6-4153-9466-091df60f7ab5,"['Filmes', 'Leitura', 'Música']"
+accea75e-06f6-4d52-b475-ffb09a9d3536,['Viagens']
+ad163e0d-3023-4f3a-9706-fbd4131145bf,"['Viagens', 'Leitura', 'Viagens']"
+ad8bf3ad-2463-45f8-ab1b-5b42b07028d0,"['Tecnologia', 'Música', 'Ebook']"
+ad9e1003-3229-46bd-a6c5-cb254d87a28d,['Tecnologia']
+ada6d479-cc04-4590-a4d4-6d4f3921feb1,"['Notícias', 'Tecnologia']"
+adb80924-47da-487d-9ebf-44ee96d049d5,"['Notícias', 'Filmes', 'Filmes']"
+aeb8446f-1ebc-47fe-a050-b5796365f4a5,['Filmes']
+af53e21b-f545-4a34-ba86-2770e6ec7876,['Notícias']
+af664d01-501a-404a-9964-1ec160110c40,['Notícias']
+afb69869-1e95-4ca0-9456-52a23cb9011b,"['Filmes', 'Viagens']"
+b0721bc1-af98-41db-b83c-e4ad89b43a9b,['Ebook']
+b1307bca-d084-4b6f-a1e8-f0a39ebe6de1,"['Esportes', 'Tecnologia']"
+b1c36994-4782-4b05-a141-bc78dd77dd85,"['Ebook', 'Filmes', 'Filmes']"
+b23d56d4-1b83-46cd-aa95-680a39089bd3,"['Leitura', 'Leitura', 'Esportes']"
+b23ffd9f-538d-4782-9118-dc122f19c292,['Tecnologia']
+b242706d-bec9-4fd9-adfa-b4ff4b053275,"['Ebook', 'Tecnologia']"
+b2c7e84f-f136-4621-895b-a9fd42fabdb8,"['Tecnologia', 'Leitura', 'Tecnologia']"
+b2e347f4-011c-4b67-869e-47dda3298bbe,['Ebook']
+b2e9296a-36a5-4442-8fea-fc59f862991b,['Viagens']
+b2ed6d75-6687-428c-9d71-e33b689ad3fe,"['Tecnologia', 'Leitura', 'Música']"
+b336dafa-76c2-49d5-b870-da02be87a225,"['Filmes', 'Música']"
+b397b5aa-52af-4cc2-a781-e578e63f8dae,"['Tecnologia', 'Tecnologia', 'Tecnologia']"
+b3aa1b1f-f57b-42b1-a3e7-8221fea2cf1d,['Viagens']
+b3f1a3f6-2301-4204-a1dd-ad5f3aef32be,['Viagens']
+b4a3e4c5-d70b-499b-8129-69c75803ee16,"['Ebook', 'Música', 'Tecnologia']"
+b4acc992-9007-4817-aab8-6645312b5da3,"['Filmes', 'Filmes', 'Ebook']"
+b4d0385c-06de-4b7f-81c6-70f6aef40e7c,['Música']
+b4f393bd-438d-47c0-9e38-c51c5211b6e0,['Viagens']
+b5797f3d-d990-4c9c-9a0a-a99672f222cc,"['Tecnologia', 'Música', 'Esportes']"
+b5c7b105-0cc3-459b-93e6-12cd5f83a049,['Filmes']
+b5f8d83c-8eec-4fb2-90ee-0af11068b34d,"['Notícias', 'Tecnologia']"
+b6cb3e75-55ad-4417-8a0c-b0e622a248cc,"['Notícias', 'Notícias', 'Leitura']"
+b7319d1b-2d9c-489c-8f73-cdff420447ac,"['Viagens', 'Música', 'Notícias']"
+b734b04f-fd64-436f-98e5-5df265a4713c,"['Tecnologia', 'Notícias', 'Ebook']"
+b7e88e14-6d4b-4b31-bfe9-ceda9ac2d5e0,"['Notícias', 'Filmes']"
+b7f1fb1f-a4fa-412a-ab9b-05a6c23cdc2f,"['Esportes', 'Ebook', 'Notícias']"
+b7f3a917-9636-4a07-8b22-56589ea5e091,"['Ebook', 'Música']"
+b8f1fb5a-ae9d-490c-b05b-a3f5e34766cb,"['Notícias', 'Ebook']"
+b90b066f-2aa2-4d5c-ad63-45c1447f5c13,"['Filmes', 'Música']"
+b934ee9e-e518-4a73-9ffe-071426be275f,"['Filmes', 'Ebook']"
+b9999fe9-409f-45d0-9e53-ac750a078719,"['Ebook', 'Tecnologia']"
+b9c755a9-d36d-4d5c-b2ca-51620714de8c,['Tecnologia']
+ba348eb9-ef63-4777-85a0-aea47088a6fe,"['Tecnologia', 'Filmes']"
+ba527d8e-a539-4860-9f32-d773b1e621ef,['Música']
+ba6686dd-6fc8-4056-960b-b17caf11f18d,"['Filmes', 'Música', 'Esportes']"
+bb18c6ad-dd79-4753-8b1a-718b3f4e9c0c,['Filmes']
+bb300718-873f-411d-992f-fb1db12e62a4,"['Esportes', 'Viagens']"
+bbaa29a3-3021-436e-a1e8-0d17678a84e2,"['Tecnologia', 'Tecnologia', 'Leitura']"
+bc4d7902-956d-4746-93f9-a6cbbdec4755,"['Tecnologia', 'Leitura']"
+bc5e5b99-216a-48ca-aad8-9e28edeb4d9c,['Ebook']
+bcb05ec9-a1a8-4ac2-8ff9-8f6a9036ddd3,"['Tecnologia', 'Ebook', 'Filmes']"
+bd826d79-57a6-4ec7-85b2-facd1f4d782f,['Ebook']
+beddac8a-d21a-4e01-8d90-db3671e89046,"['Ebook', 'Leitura', 'Filmes']"
+bf13c8bc-69d3-41a8-92d7-c1b79915906b,"['Ebook', 'Leitura', 'Ebook']"
+bf93c100-b9c3-45cd-8431-36fa1b88aac0,"['Notícias', 'Ebook']"
+bfc60785-9c67-42c1-afaf-03ad9c595006,['Leitura']
+bfcf76ae-b86e-45f1-991c-67e0cc758d2c,"['Esportes', 'Filmes']"
+c0cec131-671b-4799-8277-1bb3ea1c45a5,['Viagens']
+c0fbf9ec-e661-4cfe-aaac-175c63bded01,['Leitura']
+c0fca99f-479c-48eb-8479-f14ec7e16b63,"['Filmes', 'Tecnologia']"
+c10ad797-3160-4110-b11d-503d82302902,['Leitura']
+c17effed-a933-48ee-9821-306152b0b529,['Viagens']
+c18c1e96-5305-4422-b476-3bc581270941,"['Filmes', 'Notícias', 'Esportes']"
+c1ad83aa-8757-4a1f-a136-a1be974dd528,"['Viagens', 'Notícias', 'Notícias']"
+c1f23f38-1cfc-430d-9c57-5907c7f11cd5,"['Notícias', 'Filmes', 'Tecnologia']"
+c2eeb1a9-52b3-464a-9283-007e18de2c5e,"['Ebook', 'Leitura']"
+c2fd3a3f-35bd-474e-ba42-888af921a6fe,['Viagens']
+c352bc0f-8b50-40f8-8c99-8205641a9e72,"['Tecnologia', 'Ebook', 'Esportes']"
+c487baed-6f8f-43cd-a065-b8bed84feabb,"['Ebook', 'Notícias', 'Ebook']"
+c4db5c95-b51e-484f-9123-7a29ed9e421f,['Tecnologia']
+c4eb3c57-d145-4826-900a-9d9ab309f913,['Notícias']
+c55be2ef-b592-4c97-a77e-251b77d307e1,"['Ebook', 'Música']"
+c5d31c5e-966f-445b-b3a6-72b4d89b9f3a,['Viagens']
+c60546ad-3f7f-4a53-89f7-a4215a466146,"['Leitura', 'Notícias', 'Filmes']"
+c608e536-5f34-43fa-82ae-7f4aa9c8c688,"['Música', 'Ebook']"
+c641156f-5fe6-4149-a82c-037377010ad9,"['Esportes', 'Ebook', 'Música']"
+c6e992f0-682b-4cb5-af4d-7abb6740e862,"['Viagens', 'Tecnologia']"
+c7147b36-9f44-47e0-ab34-496cfdea1096,"['Viagens', 'Leitura']"
+c75d2df4-7d91-4c38-b0e5-88c9c3d386c1,"['Viagens', 'Tecnologia']"
+c7933e0a-bb26-488e-a04f-aeccb2cd4f17,"['Música', 'Ebook', 'Ebook']"
+c7ee8348-7fd9-4183-9ac6-2c9612e7b792,"['Filmes', 'Filmes', 'Notícias']"
+c848cc51-899b-4d25-b910-0b85049f893c,"['Leitura', 'Leitura', 'Notícias']"
+c8717082-5d12-45fd-98f1-432831a564f2,"['Notícias', 'Tecnologia', 'Leitura']"
+c8ac4914-cab1-4f53-a15b-24a53b6d3c28,"['Leitura', 'Ebook', 'Ebook']"
+c8b18c01-3d91-49ab-918f-eb7f599a75f4,"['Tecnologia', 'Viagens', 'Ebook']"
+c8ced0f7-6e49-4330-9714-e1ad487f98db,"['Esportes', 'Filmes']"
+c90b5c99-1232-48ec-bc0a-5ed23da15e4c,"['Viagens', 'Notícias', 'Ebook']"
+c92a147d-b6aa-4609-bae2-fe310de94dd5,"['Tecnologia', 'Esportes']"
+c9362752-0456-4e01-b05e-f0bd080dca17,"['Viagens', 'Leitura']"
+c964ebf7-bc7e-456c-86ff-1d01fe7163bb,"['Tecnologia', 'Notícias']"
+c991335f-de7e-4008-98bf-4be374796d6d,"['Música', 'Tecnologia']"
+c9b81663-1ae0-468b-9490-fc098811ebf5,"['Viagens', 'Tecnologia']"
+c9c58d53-b34f-466c-ac61-7f7a3698007a,"['Filmes', 'Filmes', 'Esportes']"
+c9dcbfd9-c5be-4aac-bfeb-d0c9cab0e74b,"['Leitura', 'Notícias']"
+ca22be34-02d1-4660-a0a0-11d3f8e0872e,"['Esportes', 'Música', 'Notícias']"
+ca2b6389-20ba-4859-84ac-4e9027efabd9,"['Esportes', 'Notícias', 'Viagens']"
+cad4ffdc-2293-414e-b961-2c323de39d0c,"['Leitura', 'Música']"
+cb385f3b-13c3-40de-a262-6e1208174722,['Música']
+cb4bc69e-9b20-40bb-93c0-fe1665337785,"['Viagens', 'Esportes', 'Notícias']"
+cb92b89f-e7ce-4844-9650-04fba150af17,['Leitura']
+cbd217f5-f717-44a8-b102-7c73eebee826,"['Esportes', 'Viagens', 'Música']"
+cbdf1867-2162-455f-b9f0-9c6c84457df0,['Viagens']
+cbe0718c-721d-44e7-b151-933e1d404566,"['Música', 'Notícias']"
+cbf3acc9-e400-4aa5-8639-62d45b762f2e,"['Tecnologia', 'Filmes', 'Notícias']"
+cc2c9e13-8771-435e-8309-4ff127b62397,"['Notícias', 'Tecnologia', 'Música']"
+cc31b2e2-125c-40a2-9d02-7c0651d4de6f,"['Tecnologia', 'Filmes', 'Notícias']"
+cc4007c4-a515-41cb-90e8-97bc843d671e,"['Tecnologia', 'Leitura', 'Filmes']"
+cc6d77fe-c18d-484c-9f18-33437a329730,['Ebook']
+ccb8d9c3-cbba-454a-8198-7ad1b78622ef,"['Filmes', 'Filmes']"
+ccd0e16b-ecd2-4203-aafb-0241255f868e,"['Viagens', 'Viagens', 'Leitura']"
+ccd466fa-ceb5-4a7b-9620-cc55dacdcabb,['Notícias']
+cd03c566-c713-42dd-840b-0932830d749c,['Filmes']
+cd153332-0e5d-4e78-bf25-99445e7fb117,"['Esportes', 'Ebook']"
+cd402d52-e0d9-417c-9701-47eea476039d,['Leitura']
+cd547e79-893f-48bd-a8b9-aa98ad4c146f,"['Notícias', 'Esportes', 'Esportes']"
+cd8210d6-dd02-4dc7-8c87-a5e267b41d55,['Filmes']
+cdc1057a-389a-4e22-96db-c0ccbf7154a3,"['Notícias', 'Filmes']"
+cdcb2abd-07bc-4e31-8f50-ccf3c1d6e2fe,"['Notícias', 'Filmes', 'Música']"
+cdcb437d-6c80-4fb5-9a98-187f781bf320,['Notícias']
+cdd1770a-d393-4ace-b839-36603da2f247,"['Viagens', 'Viagens']"
+cde3214a-0a42-4139-a422-04d5abde0125,"['Viagens', 'Viagens']"
+ce36451e-bc6d-4b72-934f-e8663d4f1301,"['Ebook', 'Tecnologia', 'Tecnologia']"
+ce5f9b6c-704a-47b3-8e03-57cfac15f415,"['Ebook', 'Ebook']"
+ce600698-1016-4755-a2e4-bcfc0851c06e,['Ebook']
+ce6c82b2-a64e-4fa1-a4b0-0a46fedd5806,"['Leitura', 'Viagens', 'Música']"
+ced0e5f9-4b39-46b5-8b2e-73b4d4564bbb,['Notícias']
+cf323c97-7adc-4640-85ee-f0e9471b095f,"['Esportes', 'Música', 'Ebook']"
+cf628548-7df4-4404-8d03-425194b77f35,"['Filmes', 'Ebook']"
+cf62c05d-e886-490c-bd07-deac63723f92,"['Notícias', 'Esportes']"
+d01e26a6-50bf-42fe-a4bb-bbf79d9cafff,"['Música', 'Tecnologia']"
+d040eb68-729c-4fcb-ae3d-1983cc91fef5,['Ebook']
+d098839a-e19e-4784-9bb8-c962fde5a96b,"['Viagens', 'Tecnologia', 'Tecnologia']"
+d0ab24d1-a0be-43db-aa21-a725112bbeae,"['Notícias', 'Filmes']"
+d11fa2ec-f99b-4eeb-883e-de756b900b8e,['Música']
+d1652197-01dd-49db-bee4-5b0714cc43ff,['Leitura']
+d18447c1-e14b-4ddd-aa8a-c1c38a7b35c7,"['Leitura', 'Tecnologia']"
+d1926e38-4ad3-45d9-9090-188f12430e79,['Ebook']
+d1a8f015-817d-4a6f-8516-954adaa3cc69,"['Ebook', 'Leitura']"
+d1bc1490-57e5-4f6b-b8be-b7ad95a94924,['Esportes']
+d2338595-06c0-46f7-bf9c-11528a35dfdd,"['Filmes', 'Viagens']"
+d28e6c00-b216-4199-91a6-73214b943ef8,['Esportes']
+d2b1e162-d878-4348-8aba-31575afb83dd,['Filmes']
+d2ddd0a9-f1ab-4490-8c22-1893104f55df,"['Tecnologia', 'Leitura', 'Esportes']"
+d2fc15bc-af45-4b17-a4bc-57e9aac5f786,['Notícias']
+d35f9feb-5496-418b-808e-086c984cb047,"['Leitura', 'Esportes']"
+d3a7d313-9d11-483e-a91c-490f106a37cb,['Esportes']
+d4388746-786c-4718-9cf2-c24893bf5af1,"['Ebook', 'Ebook']"
+d4aa523c-8c98-41d8-8de3-69bb5eac670f,"['Esportes', 'Música', 'Música']"
+d5279a1f-550d-4067-9569-44c1317ed9a2,"['Música', 'Notícias', 'Filmes']"
+d5c4ce15-e654-4f45-b24d-7d7683333b23,['Esportes']
+d66f93c9-5d00-420f-9489-4f8b37279a7b,"['Esportes', 'Esportes']"
+d6764c13-3eb5-49d3-a2f2-7c5827a250cc,"['Tecnologia', 'Leitura']"
+d6da474e-c7e4-4296-a1fa-7474cf2506dc,['Esportes']
+d73b7fec-a2d7-49de-8a75-889b4fa185e5,"['Notícias', 'Esportes', 'Tecnologia']"
+d7d59345-1177-4ad8-a0a0-b598b5807b32,['Notícias']
+d8973978-f95e-4f55-bc13-0496116ad532,"['Filmes', 'Leitura', 'Esportes']"
+d8988049-c65e-4834-b287-bb3d936586eb,"['Leitura', 'Viagens']"
+d8c8ec46-3b3a-414c-8185-7c8168115494,"['Viagens', 'Esportes', 'Filmes']"
+d994362c-3459-42b1-b93d-cb9333232aae,"['Música', 'Filmes', 'Esportes']"
+da7426e7-4024-4390-b086-9e40bed770fd,['Esportes']
+db46f814-1e19-4ba4-a93a-0e90a7b8d97b,['Notícias']
+db6a3ff8-375a-4a07-853a-5077a7ed511c,"['Viagens', 'Música']"
+dbb891e3-69f7-4b0b-95c9-c91d6c9ca2b1,"['Leitura', 'Leitura']"
+dbf3acb8-815f-47b1-bf2c-68fb13ca747e,"['Ebook', 'Ebook']"
+dc34db18-7a90-42b5-9a58-d0d86a1f3a99,['Viagens']
+dccb5ab9-a749-4f16-bc51-34572356d314,"['Notícias', 'Música', 'Filmes']"
+dcceab44-d7e6-4467-a88c-0065667dbbf6,['Leitura']
+dcda0b8c-44f9-4dc3-83c6-a30c17bf71e4,['Ebook']
+dcdb69ae-edc1-4f91-94b8-4631d93de7cb,"['Viagens', 'Tecnologia', 'Leitura']"
+dcdff191-8e4f-4672-aa21-61ddd6e16b65,"['Viagens', 'Viagens', 'Notícias']"
+ddc289c1-42d3-4288-a0f8-a5bd01cdccf4,"['Ebook', 'Ebook', 'Filmes']"
+de4583ff-51a8-4297-8a04-2f4c12f9c778,"['Tecnologia', 'Filmes', 'Tecnologia']"
+de893431-5b48-4fd9-8e40-af9d6b241f8f,['Notícias']
+debe7234-2895-4e57-808a-1708eea0b6d2,['Esportes']
+df071540-44e9-4db1-ae89-9c8f9af05f98,"['Música', 'Filmes', 'Notícias']"
+df083b07-d54d-45ab-985f-d21c9f0c0ef7,['Tecnologia']
+df2fa2f6-13d1-445f-bd07-8cb3d554f313,"['Notícias', 'Música']"
+df9c4dda-ca2e-46a0-b898-739972372236,['Notícias']
+dfc85cba-692a-458a-abd1-2e485be3a3ac,"['Filmes', 'Ebook']"
+e02238fc-e4dc-48e0-8360-e734de794456,['Ebook']
+e0568ca0-c786-4100-b0f7-a357b33909cb,"['Viagens', 'Notícias', 'Filmes']"
+e0a1719a-6b2d-4483-a93d-3f36233a4815,"['Esportes', 'Viagens', 'Notícias']"
+e0bd078b-313d-4028-aff2-8a6978f928c0,"['Música', 'Leitura', 'Esportes']"
+e0d9723e-5ff3-4fec-940b-5080b1c808fe,"['Música', 'Viagens']"
+e0eeadd8-752b-4b92-aa6d-6867d9ac854a,['Notícias']
+e1060d37-be03-49ae-97ae-1aa752fb66db,"['Filmes', 'Música', 'Esportes']"
+e123e5d7-2d30-4a9d-a417-639d6b373cef,"['Ebook', 'Música', 'Filmes']"
+e1741d9d-da17-4fd1-b428-95ecde4392ae,"['Notícias', 'Ebook']"
+e1847c7a-6f55-4c08-9726-74bf081428ae,"['Esportes', 'Filmes']"
+e185650b-b5e7-4780-a6e1-bf06f06a6979,"['Esportes', 'Tecnologia', 'Notícias']"
+e1a02073-158d-49f8-ad93-06a08d1c4db2,['Viagens']
+e1a8bfe1-6838-4f2f-bcd6-8afe53b887a3,"['Notícias', 'Ebook']"
+e30dcea8-343a-4c68-ae1a-c846a5709b73,['Esportes']
+e4b08da6-651b-4c91-b365-ed09710d4785,['Tecnologia']
+e4c570b5-1c10-4232-b052-ed78a34b251d,"['Ebook', 'Tecnologia', 'Filmes']"
+e4df3014-ca9a-4906-84d6-4915d0fd2e61,"['Notícias', 'Ebook']"
+e58bc36f-c9b1-4e41-a3f2-73db8a46e3a8,"['Ebook', 'Filmes']"
+e5c05c45-4e09-42b8-b8cd-9c07ec3796d6,"['Leitura', 'Filmes']"
+e5fe6181-1170-4a17-8f3d-c4970c2875e4,['Leitura']
+e5ff3f77-4969-4f7a-92bf-5bd401c90b5c,['Música']
+e6081be7-a901-402d-b9af-ff9285bd52a1,"['Filmes', 'Esportes']"
+e6a81de5-5a94-429c-956c-b690e034bc8d,"['Notícias', 'Esportes']"
+e6b22da3-9f52-4bcc-b710-659ade05b3b8,"['Leitura', 'Música', 'Leitura']"
+e6d4768a-1a0f-4757-b037-2c1e27a9c9ea,"['Esportes', 'Tecnologia', 'Viagens']"
+e6db0837-bdd5-44a7-9ce7-22bf25511ca3,['Notícias']
+e725c87e-54d3-4651-85af-4768844a6598,"['Esportes', 'Música']"
+e79fe913-857b-4ac5-b58b-f17c415628d1,"['Esportes', 'Filmes']"
+e7b9665c-f8de-4751-9b89-48880c8becb4,"['Leitura', 'Esportes', 'Tecnologia']"
+e7f791a2-bd52-4e52-a176-be2682bfc7a1,['Ebook']
+e8430c83-780d-41b6-bffb-6f056355026e,['Viagens']
+e8452e31-19ac-442f-a494-351d036c70e1,"['Filmes', 'Viagens', 'Viagens']"
+e8d9e729-480d-49ef-8d78-46e1b8a0b475,['Leitura']
+e8e2b1f5-58a9-4136-bc99-4d623b22d7f5,"['Notícias', 'Notícias', 'Música']"
+e91081a6-5c0f-4c9d-afba-02d46116bbc7,"['Música', 'Esportes', 'Filmes']"
+e93d92f6-3e7c-4a1b-974a-981668964113,['Viagens']
+e9585d6f-5ae8-4975-ad3c-fd31cb3e7877,"['Notícias', 'Filmes', 'Notícias']"
+e97c818c-ece2-4133-a79d-531dbb45c348,"['Esportes', 'Filmes']"
+e97ed101-6ad9-4c4d-a7f2-59d661e4255c,['Ebook']
+e9ab5c8b-fab7-41ba-95f1-93998d3df4ca,"['Ebook', 'Filmes', 'Leitura']"
+e9c51ef4-f88f-4314-a3a3-199e9799f8be,"['Esportes', 'Notícias', 'Esportes']"
+e9dcedb2-c43c-4e7c-b498-876b40e52e7f,"['Tecnologia', 'Notícias']"
+e9f6cb48-df0a-43e2-8625-9432dd2dfa3b,"['Tecnologia', 'Viagens', 'Tecnologia']"
+ea014380-709a-48e7-b7f1-4d4bf2d34f82,['Leitura']
+ea41813f-db55-4170-af47-0601fa2380f3,['Música']
+ea6ad755-2c3b-4604-ae85-2e9bfd0e95e9,"['Leitura', 'Notícias', 'Música']"
+ea879d90-1d62-4dfd-9924-26f58a3bdd36,"['Notícias', 'Filmes', 'Música']"
+eae58579-7fa8-421e-815e-79cfca193bde,"['Leitura', 'Filmes']"
+eb6b21c8-865e-48cc-a76a-648850ab8a6f,"['Leitura', 'Tecnologia', 'Tecnologia']"
+ebae7007-670d-4de6-a71d-022677761bc5,"['Tecnologia', 'Notícias', 'Filmes']"
+ebc44054-e401-443e-a2d0-2f6bb40a08d0,"['Notícias', 'Música']"
+ec1959ba-a697-4e6b-9d73-b3947fdbd6ef,"['Música', 'Esportes', 'Esportes']"
+ecebb6f8-34f9-42c4-9f8b-42633f0608ab,"['Leitura', 'Filmes']"
+ed198675-05d8-49ca-9124-eb8fc440152d,"['Filmes', 'Leitura', 'Leitura']"
+ed727cfb-b71e-4be2-a0e4-643e1a9a0ae9,"['Leitura', 'Notícias']"
+ed99d504-ce6a-4045-bc94-ea25df804d78,['Tecnologia']
+edb89076-7a35-4687-a9c6-8b74ab21db7c,"['Filmes', 'Ebook', 'Filmes']"
+ee17c97f-ffe4-477c-84af-edae646a85a9,['Viagens']
+ee241a4f-e0ac-4d42-b23c-9ea97507b9c1,"['Esportes', 'Filmes']"
+ef291689-cb36-4532-aa21-43ed811ca33d,"['Música', 'Leitura', 'Tecnologia']"
+ef391c4e-27b6-42a8-98ea-24535ccf63ec,"['Filmes', 'Filmes']"
+efa9d586-0f9c-4fbd-8989-b7814db8c665,['Notícias']
+efb156b3-2e14-4ff3-a434-f1be299409a8,"['Notícias', 'Leitura']"
+efde9bbd-9e49-4504-a29e-3982ceda78d1,"['Leitura', 'Tecnologia', 'Filmes']"
+f00e4dd0-9318-494c-ba57-28a8cbb11d8b,"['Filmes', 'Ebook']"
+f028f84b-4b13-40ec-859a-e152dbd4355e,"['Notícias', 'Notícias']"
+f04a785d-6ad9-4c8f-9a72-0f2ba57cc619,"['Esportes', 'Ebook']"
+f081b639-9f96-415a-b139-a37336b25350,['Música']
+f0859cf0-30f1-4d48-991a-0ad32963e093,"['Tecnologia', 'Esportes', 'Filmes']"
+f0e32078-1eb0-49ff-81b9-2bee5b6de089,"['Filmes', 'Tecnologia']"
+f0eab840-fcb5-44bb-8924-dff09244258e,"['Ebook', 'Notícias']"
+f0eab941-3e62-46ba-ad67-ccc5a4538e88,"['Tecnologia', 'Notícias']"
+f141a689-5a31-4341-862b-c1c48d2c00fb,"['Leitura', 'Viagens', 'Ebook']"
+f151416a-3adb-4915-b107-56bd3e0c86d0,"['Filmes', 'Notícias']"
+f16f6ece-3860-4a9a-849d-2cf4e61d3d1f,['Música']
+f1b65a56-3cc0-42c9-a4fb-0b694605bdab,"['Tecnologia', 'Filmes', 'Notícias']"
+f1ede284-8cb0-46d3-9323-f59996906de3,['Tecnologia']
+f260dbec-ad52-4e45-b8ac-513a3c5042d2,"['Notícias', 'Filmes', 'Tecnologia']"
+f26d46bc-5824-49c5-99ef-c46e6fbde397,['Música']
+f26f348c-72b2-4ecb-89df-9abd5d88d86d,"['Leitura', 'Ebook']"
+f2a685fc-681e-4e17-90d7-552cbef9c236,['Leitura']
+f3326a46-28aa-4c01-842b-5ebda591a0a3,"['Ebook', 'Filmes']"
+f3461576-32d0-4bcf-8733-246a3157e369,"['Esportes', 'Leitura']"
+f3b49859-3d78-427f-80bb-f94793c46c9b,['Tecnologia']
+f3d581be-b4d1-446b-9847-24d9bb03345d,['Notícias']
+f3ff04e0-96b4-4645-bf57-3b218dae8ce2,"['Música', 'Viagens', 'Notícias']"
+f44548b4-3572-4cc2-9739-3519b7465d41,['Notícias']
+f44ba4cf-760e-440e-a434-1ab908b0b869,"['Leitura', 'Notícias', 'Filmes']"
+f48d8f3b-f868-4b00-9fc9-39f53b293200,"['Esportes', 'Música']"
+f4fdfa9d-cd2b-480f-866f-1355b90e63eb,"['Viagens', 'Ebook', 'Ebook']"
+f50827de-e77d-4050-8df5-a62846c08045,['Esportes']
+f527ebb4-b9fd-42a7-b7c3-37bf8b62699d,['Filmes']
+f545eba3-0066-487d-b84a-162e7a496d4e,"['Filmes', 'Ebook', 'Notícias']"
+f55b35ce-29b4-4257-850e-590068553a23,"['Viagens', 'Viagens', 'Esportes']"
+f563e876-6cae-40ff-8f43-ad6a1e87a2ae,"['Ebook', 'Ebook']"
+f620843c-013d-49fc-a130-b64867d32486,"['Leitura', 'Filmes', 'Tecnologia']"
+f63021bd-e1da-4e7e-ba78-8329ebfc51fc,['Esportes']
+f66adb34-b5a8-4ee5-87a4-fb7d75631b7a,"['Viagens', 'Música', 'Ebook']"
+f670a534-1263-40ef-ae8c-ca58a4646fc0,"['Esportes', 'Tecnologia', 'Notícias']"
+f68fcb66-483e-450d-9439-4ee56a1a742f,"['Tecnologia', 'Tecnologia']"
+f6cdb578-9ef5-4eb5-be0b-35a0bb23412c,"['Viagens', 'Esportes']"
+f6e8f74a-7a27-43eb-bd5c-180c13c5a404,['Música']
+f6f55f0d-d6af-4319-b474-18eaf5063a33,"['Leitura', 'Esportes']"
+f700dd0c-0821-4ff7-8a47-f095b6cb14f0,['Ebook']
+f74af2b4-90c1-49ad-a970-fc44c0c7f645,"['Viagens', 'Ebook', 'Viagens']"
+f76a1c50-7da8-4bad-ac69-9300d367fcf5,['Música']
+f7bd607a-0311-481e-9da9-c5f86bef8660,"['Música', 'Esportes']"
+f7c5d8e4-ff88-47f6-a9a4-3dcf55c33543,"['Música', 'Ebook']"
+f7de910d-3788-4f2c-a616-2c02bb6a4714,['Música']
+f83e505f-16e1-49b1-98e5-44fbe3dc2740,['Música']
+f8571d7f-d0ea-41f2-b4c7-a116ba115224,['Tecnologia']
+f85b5046-cab7-4413-a2c0-735895163712,"['Filmes', 'Filmes']"
+f85be8ab-1077-4758-9ac2-1ef120477ba3,"['Ebook', 'Viagens', 'Leitura']"
+f8a199f2-4de5-4d47-a30c-ce5e88dcc365,['Tecnologia']
+f91924b0-fc7d-4bc7-89a6-eb0699533c9c,"['Viagens', 'Esportes', 'Esportes']"
+f94ef74f-66f1-4ea8-9ce2-4dbddbd8fcd0,"['Ebook', 'Música']"
+fa0094eb-364f-4f1f-8ca0-999e64239f41,"['Leitura', 'Esportes', 'Viagens']"
+faa25b15-8d36-400d-a841-fba54f7243d7,"['Música', 'Leitura', 'Tecnologia']"
+fb323aa9-c77a-4169-a54b-d26938929892,"['Filmes', 'Filmes']"
+fb616390-331b-40a9-9161-332e2ace06f7,['Ebook']
+fb779438-5687-489d-85e5-3c733913932e,"['Esportes', 'Tecnologia', 'Notícias']"
+fbe39bc9-1144-4720-92b8-acc957637fb1,['Ebook']
+fc776fce-86f5-4356-a47b-030700ab9122,"['Viagens', 'Ebook']"
+fcdf2fad-3513-46ad-a211-a12c649b58b0,"['Tecnologia', 'Tecnologia']"
+fced66f5-0cf2-494b-bb85-dfa5d17cabd5,['Esportes']
+fd2224ac-4825-492e-b485-d3e0cb201680,['Música']
+fd7cec9c-9d21-4e45-885f-02b227daa186,"['Ebook', 'Esportes', 'Leitura']"
+fde2a59f-080b-4c76-9d75-2568c54cbaff,['Notícias']
+fe05a9c0-6442-440a-8b43-60ed5e48446b,"['Esportes', 'Ebook', 'Tecnologia']"
+fe40bf78-18d6-4716-be21-dab339ba92cb,['Notícias']
+fed94969-6163-4827-9c4f-595bea3cc677,"['Filmes', 'Filmes']"
+fedea278-2e3e-48c7-a5e1-5af58251bf79,"['Notícias', 'Leitura']"
+ffc9ac4e-8534-4f2d-9491-a3492eedc386,"['Esportes', 'Leitura']"
+ffcf2f35-4344-49b9-b491-68470ac17f4f,['Esportes']
